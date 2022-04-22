@@ -1,0 +1,3665 @@
+city_ascii	country
+Delhi	India
+Mumbai	India
+Shanghai	China
+Sao Paulo	Brazil
+Guangzhou	China
+Kolkata	India
+Istanbul	Turkey
+Osaka	Japan
+Karachi	Pakistan
+Bangalore	India
+Ho Chi Minh City	Vietnam
+Rio de Janeiro	Brazil
+Chennai	India
+Chengdu	China
+Lahore	Pakistan
+Tianjin	China
+Shijiazhuang	China
+Hyderabad	India
+Nagoya	Japan
+Wuhan	China
+Chongqing	China
+Changchun	China
+Nanjing	China
+Hefei	China
+Nanning	China
+Xi'an	China
+Shenyang	China
+Changsha	China
+Zhengzhou	China
+Hangzhou	China
+Kunming	China
+Atlanta	United States
+Saint Petersburg	Russia
+Sydney	Australia
+Guadalajara	Mexico
+Fuzhou	China
+Belo Horizonte	Brazil
+Melbourne	Australia
+Nanchang	China
+Surabaya	Indonesia
+Alexandria	Egypt
+Boston	United States
+Barcelona	Spain
+Harbin	China
+Johannesburg	South Africa
+Casablanca	Morocco
+Guiyang	China
+Izmir	Turkey
+Monterrey	Mexico
+Phoenix	United States
+Yokohama	Japan
+Lanzhou	China
+Busan	Korea, South
+Taiyuan	China
+Lucknow	India
+Jinan	China
+Santa Cruz	Bolivia
+Urumqi	China
+Jaipur	India
+Giza	Egypt
+Mashhad	Iran
+Quezon City	Philippines
+Salvador	Brazil
+Incheon	Korea, South
+Bursa	Turkey
+Denver	United States
+Kano	Nigeria
+Taichung	Taiwan
+Kaohsiung	Taiwan
+Guayaquil	Ecuador
+Ibadan	Nigeria
+Hohhot	China
+Chattogram	Bangladesh
+Medellin	Colombia
+Brisbane	Australia
+Dubai	United Arab Emirates
+Cali	Colombia
+Daegu	Korea, South
+Fortaleza	Brazil
+Douala	Cameroon
+Antalya	Turkey
+Bandung	Indonesia
+Konya	Turkey
+Adana	Turkey
+Medan	Indonesia
+Xining	China
+Fukuoka	Japan
+Haiphong	Vietnam
+Kumasi	Ghana
+Perth	Australia
+Haikou	China
+Gaziantep	Turkey
+Sanliurfa	Turkey
+Kananga	Congo (Kinshasa)
+Peshawar	Pakistan
+Sapporo	Japan
+Sacramento	United States
+Blantyre	Malawi
+Tainan	Taiwan
+Bhopal	India
+Curitiba	Brazil
+Aleppo	Syria
+Hamburg	Germany
+Meru	Kenya
+Mersin	Turkey
+Barranquilla	Colombia
+Kyoto	Japan
+Manaus	Brazil
+Lubumbashi	Congo (Kinshasa)
+Esfahan	Iran
+Diyarbakir	Turkey
+Vitoria	Brazil
+Mecca	Saudi Arabia
+Patna	India
+Mosul	Iraq
+Austin	United States
+Makassar	Indonesia
+Davao	Philippines
+Semarang	Indonesia
+Yinchuan	China
+Caloocan City	Philippines
+Novosibirsk	Russia
+Karaj	Iran
+Indianapolis	United States
+Puebla	Mexico
+Recife	Brazil
+Columbus	United States
+Tabriz	Iran
+Santiago	Dominican Republic
+Maracaibo	Venezuela
+Kobe	Japan
+Gwangju	Korea, South
+Porto Alegre	Brazil
+Valencia	Venezuela
+Daejeon	Korea, South
+Munich	Germany
+Yekaterinburg	Russia
+Auckland	New Zealand
+Shiraz	Iran
+Palembang	Indonesia
+Kharkiv	Ukraine
+Owerri	Nigeria
+Sharjah	United Arab Emirates
+Goiania	Brazil
+Belem	Brazil
+Kayseri	Turkey
+Milan	Italy
+Adelaide	Australia
+Samsun	Turkey
+Khulna	Bangladesh
+Cordoba	Argentina
+Mbuji-Mayi	Congo (Kinshasa)
+Saitama	Japan
+Hiroshima	Japan
+Nizhniy Novgorod	Russia
+Kazan	Russia
+Suwon	Korea, South
+Can Tho	Vietnam
+Mandalay	Burma
+Al Basrah	Iraq
+Sevilla	Spain
+Chelyabinsk	Russia
+Mombasa	Kenya
+Providence	United States
+Qom	Iran
+Maiduguri	Nigeria
+Benin City	Nigeria
+Ahvaz	Iran
+Medina	Saudi Arabia
+Srinagar	India
+Omsk	Russia
+Bandar Lampung	Indonesia
+Samara	Russia
+Ulsan	Korea, South
+Quetta	Pakistan
+Callao	Peru
+Rostov	Russia
+Ufa	Russia
+Fes	Morocco
+Bien Hoa	Vietnam
+Mexicali	Mexico
+Salt Lake City	United States
+Irbid	Jordan
+Krasnoyarsk	Russia
+Nashville	United States
+Ranchi	India
+Richmond	United States
+Sao Luis	Brazil
+San Pedro Sula	Honduras
+Barquisimeto	Venezuela
+Sendai	Japan
+Voronezh	Russia
+Perm	Russia
+Changwon	Korea, South
+Raleigh	United States
+Cartagena	Colombia
+Chandigarh	India
+Maceio	Brazil
+Tekirdag	Turkey
+Shymkent	Kazakhstan
+Volgograd	Russia
+Odesa	Ukraine
+Raipur	India
+Arequipa	Peru
+Port Harcourt	Nigeria
+Dnipro	Ukraine
+Chiba	Japan
+Naples	Italy
+Kirkuk	Iraq
+Oklahoma City	United States
+Toulouse	France
+Denizli	Turkey
+Dispur	India
+Tangier	Morocco
+Kisangani	Congo (Kinshasa)
+Aguascalientes	Mexico
+Marrakech	Morocco
+Donetsk	Ukraine
+Trujillo	Peru
+Cebu City	Philippines
+Padang	Indonesia
+Ad Dammam	Saudi Arabia
+Lhasa	China
+Homs	Syria
+Merida	Mexico
+Abeokuta	Nigeria
+Krasnodar	Russia
+Natal	Brazil
+Chihuahua	Mexico
+Turin	Italy
+Jos	Nigeria
+Campo Grande	Brazil
+Barinas	Venezuela
+Marseille	France
+Eskisehir	Turkey
+Ipoh	Malaysia
+Zamboanga City	Philippines
+Oran	Algeria
+Pekanbaru	Indonesia
+Erbil	Iraq
+Kermanshah	Iran
+Ilorin	Nigeria
+Teresina	Brazil
+Saratov	Russia
+Denpasar	Indonesia
+Bhubaneshwar	India
+Cheongju	Korea, South
+Pointe-Noire	Congo (Brazzaville)
+San Luis Potosi	Mexico
+Toluca	Mexico
+Honolulu	United States
+Queretaro	Mexico
+Hermosillo	Mexico
+Taguig City	Philippines
+Saltillo	Mexico
+Trabzon	Turkey
+Joao Pessoa	Brazil
+Valencia	Spain
+Niigata	Japan
+Pasig City	Philippines
+Culiacan	Mexico
+Antipolo	Philippines
+Krakow	Poland
+Erzurum	Turkey
+Kaduna	Nigeria
+Samarinda	Indonesia
+Changhua	Taiwan
+Pietermaritzburg	South Africa
+Cucuta	Colombia
+Thiruvananthapuram	India
+Tyumen	Russia
+San Cristobal	Venezuela
+Zaporizhzhia	Ukraine
+Kumamoto	Japan
+Sokoto	Nigeria
+Orumiyeh	Iran
+Rennes	France
+Lviv	Ukraine
+Bremen	Germany
+An Najaf	Iraq
+Okayama	Japan
+Enugu	Nigeria
+George Town	Malaysia
+Latakia	Syria
+Banjarmasin	Indonesia
+Aracaju	Brazil
+Bauchi	Nigeria
+Lodz	Poland
+Shizuoka	Japan
+Karbala'	Iraq
+City of Paranaque	Philippines
+Palermo	Italy
+Cagayan de Oro	Philippines
+Huambo	Angola
+Bouake	Côte D’Ivoire
+As Sulaymaniyah	Iraq
+Durango	Mexico
+Bulawayo	Zimbabwe
+Zaragoza	Spain
+Izhevsk	Russia
+Villahermosa	Mexico
+Utrecht	Netherlands
+Kikwit	Congo (Kinshasa)
+Valenzuela	Philippines
+Wroclaw	Poland
+Rasht	Iran
+Nantes	France
+Stuttgart	Germany
+Cochabamba	Bolivia
+Barnaul	Russia
+Tripoli	Lebanon
+Benghazi	Libya
+Ulyanovsk	Russia
+Irkutsk	Russia
+Pontianak	Indonesia
+Dusseldorf	Germany
+Khabarovsk	Russia
+Hamhung	Korea, North
+Serang	Indonesia
+Buraydah	Saudi Arabia
+Ta`izz	Yemen
+San Miguel de Tucuman	Argentina
+Yaroslavl	Russia
+Vladivostok	Russia
+Kuantan	Malaysia
+Jambi	Indonesia
+Gothenburg	Sweden
+Tuxtla	Mexico
+Kagoshima	Japan
+General Santos	Philippines
+Makhachkala	Russia
+Makati City	Philippines
+Albany	United States
+Shah Alam	Malaysia
+Cuiaba	Brazil
+Bucaramanga	Colombia
+Genoa	Italy
+Dehra Dun	India
+Tomsk	Russia
+Kerman	Iran
+Baton Rouge	United States
+Pereira	Colombia
+Ciudad Bolivar	Venezuela
+Orenburg	Russia
+Bacolod	Philippines
+Zahedan	Iran
+Columbia	United States
+Kemerovo	Russia
+Dresden	Germany
+Uyo	Nigeria
+Chiclayo	Peru
+Al Hudaydah	Yemen
+Cabinda	Angola
+Maturin	Venezuela
+An Nasiriyah	Iraq
+Al Hillah	Iraq
+Ibague	Colombia
+Hannover	Germany
+Poznan	Poland
+Ryazan	Russia
+Kassala	Sudan
+Salta	Argentina
+Astrakhan	Russia
+Agartala	India
+Xalapa	Mexico
+Ndola	Zambia
+Hamadan	Iran
+Villavicencio	Colombia
+Lyon	France
+Bac Ninh	Vietnam
+Penza	Russia
+Port Said	Egypt
+Utsunomiya	Japan
+Santa Marta	Colombia
+Hai Duong	Vietnam
+Homyel'	Belarus
+Benguela	Angola
+Tabuk	Saudi Arabia
+Lipetsk	Russia
+Matsuyama	Japan
+Muntinlupa City	Philippines
+Aden	Yemen
+Pingtung	Taiwan
+Samarkand	Uzbekistan
+Kirov	Russia
+Qaraghandy	Kazakhstan
+Mykolaiv	Ukraine
+Rouen	France
+Oujda-Angad	Morocco
+Johor Bahru	Malaysia
+Kota Bharu	Malaysia
+Vinh	Vietnam
+Kandahar	Afghanistan
+Cheboksary	Russia
+Port Sudan	Sudan
+Valledupar	Colombia
+Tula	Russia
+Suez	Egypt
+Yazd	Iran
+Arak	Iran
+Az Zarqa'	Jordan
+Ardabil	Iran
+Sylhet	Bangladesh
+Nampula	Mozambique
+Oita	Japan
+Florianopolis	Brazil
+Kaliningrad	Russia
+San Juan	Argentina
+Macapa	Brazil
+Des Moines	United States
+Piura	Peru
+Strasbourg	France
+Ba`qubah	Iraq
+Tamale	Ghana
+Gdansk	Poland
+Kanazawa	Japan
+Manado	Indonesia
+Calabar	Nigeria
+Malatya	Turkey
+Hue	Vietnam
+Monteria	Colombia
+Tel Aviv-Yafo	Israel
+Marikina City	Philippines
+Sfax	Tunisia
+Ar Ramadi	Iraq
+Melaka	Malaysia
+Taoyuan District	Taiwan
+Iloilo	Philippines
+Kota Kinabalu	Malaysia
+Rajshahi	Bangladesh
+Tanta	Egypt
+Kursk	Russia
+Bukavu	Congo (Kinshasa)
+Hsinchu	Taiwan
+Barcelona	Venezuela
+Constantine	Algeria
+Ado-Ekiti	Nigeria
+Batman	Turkey
+Pasay City	Philippines
+Madison	United States
+Santiago de Cuba	Cuba
+Kahramanmaras	Turkey
+Andijon	Uzbekistan
+Harrisburg	United States
+Al Mansurah	Egypt
+Beira	Mozambique
+Little Rock	United States
+Zurich	Switzerland
+Herat	Afghanistan
+Kupang	Indonesia
+Jeju	Korea, South
+Bandar `Abbas	Iran
+Stavropol	Russia
+Katsina	Nigeria
+Yogyakarta	Indonesia
+Zanjan	Iran
+Ulan-Ude	Russia
+Mazar-e Sharif	Afghanistan
+Cusco	Peru
+Sevastopol	Ukraine
+Mandaluyong City	Philippines
+Agadir	Morocco
+Tver	Russia
+Elazig	Turkey
+Akure	Nigeria
+Hpa-An	Burma
+Seremban	Malaysia
+Takamatsu	Japan
+Luhansk	Ukraine
+Angeles City	Philippines
+El Obeid	Sudan
+Palma	Spain
+Kolwezi	Congo (Kinshasa)
+Arusha	Tanzania
+Toyama	Japan
+Mataram	Indonesia
+Lapu-Lapu City	Philippines
+Kisumu	Kenya
+Jayapura	Indonesia
+Nagasaki	Japan
+Ivanovo	Russia
+Osogbo	Nigeria
+Turkmenabat	Turkmenistan
+Namangan	Uzbekistan
+Bryansk	Russia
+Maracay	Venezuela
+Murcia	Spain
+Mbale	Uganda
+Taraz	Kazakhstan
+Asyut	Egypt
+Santa Fe	Argentina
+Szczecin	Poland
+Gifu	Japan
+Miyazaki	Japan
+Thanh Hoa	Vietnam
+Nha Trang	Vietnam
+Belgorod	Russia
+Yola	Nigeria
+Ad Diwaniyah	Iraq
+Bologna	Italy
+Augusta	United States
+Boise	United States
+Mwanza	Tanzania
+Aqtobe	Kazakhstan
+Plovdiv	Bulgaria
+Florence	Italy
+Ha'il	Saudi Arabia
+Las Palmas	Spain
+Rio Branco	Brazil
+Brno	Czechia
+Pasto	Colombia
+Qazvin	Iran
+Novi Sad	Serbia
+Antofagasta	Chile
+Huancayo	Peru
+Malabon	Philippines
+Usulutan	El Salvador
+Christchurch	New Zealand
+Hatay	Turkey
+Iquitos	Peru
+Sivas	Turkey
+Manizales	Colombia
+Cumana	Venezuela
+Vinnytsia	Ukraine
+Sanandaj	Iran
+Ambon	Indonesia
+Mandaue City	Philippines
+Keelung	Taiwan
+Varna	Bulgaria
+Nagano	Japan
+Cuernavaca	Mexico
+Vitsyebsk	Belarus
+Wonsan	Korea, North
+Kocaeli	Turkey
+Bengkulu	Indonesia
+Bydgoszcz	Poland
+Bobo-Dioulasso	Burkina Faso
+Umuahia	Nigeria
+Gedaref	Sudan
+Palu	Indonesia
+Pokhara	Nepal
+Mahilyow	Belarus
+Nam Dinh	Vietnam
+Sinuiju	Korea, North
+Hrodna	Belarus
+Vladimir	Russia
+Wakayama	Japan
+Nara	Japan
+Haarlem	Netherlands
+Pavlodar	Kazakhstan
+Van	Turkey
+Corrientes	Argentina
+Arkhangelsk	Russia
+Baguio City	Philippines
+Holguin	Cuba
+Khorramabad	Iran
+Chita	Russia
+Sari	Iran
+Sumqayit	Azerbaijan
+Al `Amarah	Iraq
+Simferopol	Ukraine
+Tarlac City	Philippines
+Iligan	Philippines
+Otsu	Japan
+Kaluga	Russia
+Lublin	Poland
+Brest	Belarus
+Farg`ona	Uzbekistan
+Buon Ma Thuot	Vietnam
+Tepic	Mexico
+Butuan	Philippines
+Blida	Algeria
+Cuenca	Ecuador
+Maebashi	Japan
+Wad Medani	Sudan
+Sousse	Tunisia
+Thessaloniki	Greece
+Ganca	Azerbaijan
+Mymensingh	Bangladesh
+Al Fayyum	Egypt
+Kendari	Indonesia
+Balikesir	Turkey
+Az Zaqaziq	Egypt
+Thai Nguyen	Vietnam
+Smolensk	Russia
+Dahuk	Iraq
+Batangas	Philippines
+Kochi	Japan
+Vung Tau	Vietnam
+Bari	Italy
+Nakuru	Kenya
+Boa Vista	Brazil
+Cluj-Napoca	Romania
+Malmo	Sweden
+Pucallpa	Peru
+Kuching	Malaysia
+Zinder	Niger
+Naha	Japan
+Jackson	United States
+Mekele	Ethiopia
+Gonaives	Haiti
+Lansing	United States
+Kurgan	Russia
+Camaguey	Cuba
+San Salvador de Jujuy	Argentina
+Timisoara	Romania
+Al Kut	Iraq
+Poltava	Ukraine
+Maroua	Cameroon
+Boaco	Nicaragua
+Oskemen	Kazakhstan
+Ca Mau	Vietnam
+Neiva	Colombia
+Vologda	Russia
+Saransk	Russia
+Bor	South Sudan
+Orel	Russia
+Hamah	Syria
+Gorgan	Iran
+Porto Velho	Brazil
+Quy Nhon	Vietnam
+Namp'o	Korea, North
+Sariwon	Korea, North
+Matadi	Congo (Kinshasa)
+San Fernando	Philippines
+St. Paul	United States
+Vladikavkaz	Russia
+Yakutsk	Russia
+Minna	Nigeria
+Ciudad del Este	Paraguay
+Ciudad Victoria	Mexico
+Akita	Japan
+Adiyaman	Turkey
+Oaxaca	Mexico
+Armenia	Colombia
+Awka	Nigeria
+Soc Trang	Vietnam
+Awasa	Ethiopia
+Popayan	Colombia
+Cotabato	Philippines
+Bialystok	Poland
+Merida	Venezuela
+Murmansk	Russia
+Afyonkarahisar	Turkey
+Valladolid	Spain
+Najran	Saudi Arabia
+Chernihiv	Ukraine
+Valparaiso	Chile
+Mbeya	Tanzania
+Rangpur	Bangladesh
+Aksaray	Turkey
+Navotas	Philippines
+Corum	Turkey
+Ismailia	Egypt
+Cagliari	Italy
+Batna	Algeria
+Tambov	Russia
+Iasi	Romania
+Thies	Senegal
+Makurdi	Nigeria
+Morioka	Japan
+Kherson	Ukraine
+Groznyy	Russia
+Bafoussam	Cameroon
+Resistencia	Argentina
+Brasov	Romania
+Graz	Austria
+Setif	Algeria
+Trenton	United States
+Kaunas	Lithuania
+Sekondi	Ghana
+Lincoln	United States
+Ostrava	Czechia
+Fukushima	Japan
+Orleans	France
+Tacna	Peru
+Korhogo	Côte D’Ivoire
+Constanta	Romania
+Haifa	Israel
+Coro	Venezuela
+Bago	Burma
+Aizawl	India
+Temuco	Chile
+Ica	Peru
+Chuncheon	Korea, South
+Long Xuyen	Vietnam
+Petrozavodsk	Russia
+Sincelejo	Colombia
+Viet Tri	Vietnam
+Cherkasy	Ukraine
+Wiesbaden	Germany
+Kostroma	Russia
+Katowice	Poland
+Pachuca	Mexico
+Dire Dawa	Ethiopia
+Khmelnytskyi	Ukraine
+Aomori	Japan
+Posadas	Argentina
+Tsu	Japan
+Mbandaka	Congo (Kinshasa)
+La Guaira	Venezuela
+Chiayi	Taiwan
+Palmas	Brazil
+Craiova	Romania
+Maradi	Niger
+Bukhara	Uzbekistan
+Thai Binh	Vietnam
+Oral	Kazakhstan
+Imphal	India
+Santo Domingo de los Colorados	Ecuador
+Santa Ana	El Salvador
+Zhytomyr	Ukraine
+Mito	Japan
+Gombe	Nigeria
+Bamenda	Cameroon
+Lucena	Philippines
+Yoshkar-Ola	Russia
+Nalchik	Russia
+Aswan	Egypt
+Chernivtsi	Ukraine
+Sumy	Ukraine
+Kutahya	Turkey
+Salem	United States
+Djelfa	Algeria
+Kindu	Congo (Kinshasa)
+Osmaniye	Turkey
+Fukui	Japan
+Bordeaux	France
+Annaba	Algeria
+Venice	Italy
+Nonthaburi	Thailand
+Quang Ngai	Vietnam
+Damanhur	Egypt
+Sakarya	Turkey
+Tagum	Philippines
+Kunduz	Afghanistan
+Misratah	Libya
+Isparta	Turkey
+Bergen	Norway
+Tallahassee	United States
+Tokushima	Japan
+Fort-de-France	Martinique
+Damaturu	Nigeria
+Malolos	Philippines
+La Paz	Mexico
+Mawlamyine	Burma
+Kuala Terengganu	Malaysia
+Daloa	Côte D’Ivoire
+Puerto Princesa	Philippines
+Qarshi	Uzbekistan
+Montgomery	United States
+Arua	Uganda
+Rach Gia	Vietnam
+Kanggye	Korea, North
+Vitoria-Gasteiz	Spain
+El Fasher	Sudan
+Santiago del Estero	Argentina
+Usak	Turkey
+Los Teques	Venezuela
+Osh	Kyrgyzstan
+Bata	Equatorial Guinea
+Galati	Romania
+Al Bayda'	Libya
+Yamagata	Japan
+Kiel	Germany
+Rivne	Ukraine
+Palangkaraya	Indonesia
+Al Minya	Egypt
+Thu Dau Mot	Vietnam
+Parana	Argentina
+Oruro	Bolivia
+Syktyvkar	Russia
+Biratnagar	Nepal
+Colon	Panama
+Puerto Montt	Chile
+Tuy Hoa	Vietnam
+Bahir Dar	Ethiopia
+Manisa	Turkey
+Tanga	Tanzania
+Porto	Portugal
+Tacloban	Philippines
+Myitkyina	Burma
+Haeju	Korea, North
+Duzce	Turkey
+Hobart	Australia
+Chimoio	Mozambique
+Limassol	Cyprus
+Magdeburg	Germany
+Kosice	Slovakia
+`Ajman	United Arab Emirates
+Lille	France
+Banda Aceh	Indonesia
+Ivano-Frankivsk	Ukraine
+Pathein	Burma
+Abha	Saudi Arabia
+Garoua	Cameroon
+Bayamo	Cuba
+Machala	Ecuador
+Puducherry	India
+Olongapo	Philippines
+Saga	Japan
+Rancagua	Chile
+Barishal	Bangladesh
+Neuquen	Argentina
+Ibb	Yemen
+Kropyvnytskyi	Ukraine
+Guantanamo	Cuba
+Burgas	Bulgaria
+Nyala	Sudan
+Dasoguz	Turkmenistan
+Turkistan	Kazakhstan
+Gusau	Nigeria
+Quetzaltenango	Guatemala
+Nyanza	Rwanda
+Bac Lieu	Vietnam
+Toamasina	Madagascar
+Campeche	Mexico
+Tampere	Finland
+Blagoveshchensk	Russia
+Velikiy Novgorod	Russia
+Nigde	Turkey
+Cartago	Costa Rica
+Ternopil	Ukraine
+Formosa	Argentina
+Gabes	Tunisia
+Polokwane	South Africa
+Sidon	Lebanon
+Lutsk	Ukraine
+La Serena	Chile
+San Felipe	Venezuela
+La Vega	Dominican Republic
+San Pedro de Macoris	Dominican Republic
+Damietta	Egypt
+Groningen	Netherlands
+San Miguel	El Salvador
+Concepcion	Chile
+Alor Setar	Malaysia
+Qostanay	Kazakhstan
+Petropavl	Kazakhstan
+As Samawah	Iraq
+Ormoc	Philippines
+Shimla	India
+Geneva	Switzerland
+Sikasso	Mali
+Jalalabad	Afghanistan
+Sidi Bel Abbes	Algeria
+Ploiesti	Romania
+Pskov	Russia
+Dayr az Zawr	Syria
+San-Pedro	Côte D’Ivoire
+Cork	Ireland
+Pamplona	Spain
+Beersheba	Israel
+La Romana	Dominican Republic
+Qina	Egypt
+Mary	Turkmenistan
+Santa Cruz	Spain
+Santa Clara	Cuba
+Morogoro	Tanzania
+Portoviejo	Ecuador
+Linz	Austria
+Trieste	Italy
+Phan Thiet	Vietnam
+Kalemie	Congo (Kinshasa)
+Biskra	Algeria
+Bani Suwayf	Egypt
+Zanzibar	Tanzania
+Bolu	Turkey
+Ziguinchor	Senegal
+Torun	Poland
+Marawi City	Philippines
+Erfurt	Germany
+Matsue	Japan
+Tanjungpinang	Indonesia
+Zhubei	Taiwan
+Djougou	Benin
+Luxor	Egypt
+Las Tunas	Cuba
+Arica	Chile
+Huacho	Peru
+Debrecen	Hungary
+Cajamarca	Peru
+Lashkar Gah	Afghanistan
+Tokat	Turkey
+Nema	Mauritania
+Olympia	United States
+Oulu	Finland
+Maimanah	Afghanistan
+Az Zawiyah	Libya
+Kasama	Zambia
+Bojnurd	Iran
+Pagadian	Philippines
+Banja Luka	Bosnia And Herzegovina
+Talca	Chile
+Chilpancingo	Mexico
+Naga City	Philippines
+Gemena	Congo (Kinshasa)
+Oradea	Romania
+Legazpi City	Philippines
+Huanuco	Peru
+Rajin	Korea, North
+Ghandinagar	India
+Eldoret	Kenya
+Suhaj	Egypt
+Kirikkale	Turkey
+Ar Raqqah	Syria
+Brikama	Gambia, The
+Kenema	Sierra Leone
+Bandar-e Bushehr	Iran
+Yamaguchi	Japan
+Yuzhno-Sakhalinsk	Russia
+Gorontalo	Indonesia
+Quelimane	Mozambique
+Tebessa	Algeria
+San Fernando	Venezuela
+Karaman	Turkey
+Cap-Haitien	Haiti
+Mus	Turkey
+Kielce	Poland
+Guanare	Venezuela
+Aydin	Turkey
+Shibin al Kawm	Egypt
+Oviedo	Spain
+Saint-Denis	Reunion
+Ngaoundere	Cameroon
+Potosi	Bolivia
+Parakou	Benin
+Mutare	Zimbabwe
+Kofu	Japan
+Pinar del Rio	Cuba
+Al Hasakah	Syria
+Turku	Finland
+Iquique	Chile
+Gharyan	Libya
+La Plata	Argentina
+Prizren	Kosovo
+Mainz	Germany
+Ed Damazin	Sudan
+Khujand	Tajikistan
+Basel	Switzerland
+Fianarantsoa	Madagascar
+Rzeszow	Poland
+Aqtau	Kazakhstan
+Nis	Serbia
+Abakan	Russia
+Bo	Sierra Leone
+Braila	Romania
+Braga	Portugal
+Saarbrucken	Germany
+Petropavlovsk-Kamchatskiy	Russia
+Sittwe	Burma
+Phan Rang-Thap Cham	Vietnam
+La Rioja	Argentina
+Canakkale	Turkey
+Ayacucho	Peru
+Tunja	Colombia
+Tiaret	Algeria
+Edirne	Turkey
+Split	Croatia
+Tarija	Bolivia
+Al `Arish	Egypt
+El Oued	Algeria
+Potsdam	Germany
+Salalah	Oman
+Birjand	Iran
+Bejaia	Algeria
+Santander	Spain
+Kadugli	Sudan
+Les Cayes	Haiti
+Saint-Louis	Senegal
+Plzen	Czechia
+Dagupan City	Philippines
+Shibirghan	Afghanistan
+Harar	Ethiopia
+Olsztyn	Poland
+San Francisco de Macoris	Dominican Republic
+Malaybalay	Philippines
+Leon	Nicaragua
+Ha Long	Vietnam
+Tlemcen	Algeria
+Escuintla	Guatemala
+Bertoua	Cameroon
+Banha	Egypt
+Kaolack	Senegal
+Guanajuato	Mexico
+Loja	Ecuador
+Hamilton	New Zealand
+Bordj Bou Arreridj	Algeria
+Nukus	Uzbekistan
+N'Zerekore	Guinea
+Digos	Philippines
+San Luis	Argentina
+Al Marj	Libya
+Sonsonate	El Salvador
+Sarh	Chad
+Ambato	Ecuador
+Roxas City	Philippines
+Sorsogon	Philippines
+Uppsala	Sweden
+Patra	Greece
+Riohacha	Colombia
+`Ar`ar	Saudi Arabia
+Ha Tinh	Vietnam
+Kimberley	South Africa
+Skikda	Algeria
+Nantou	Taiwan
+Siirt	Turkey
+Perugia	Italy
+Klaipeda	Lithuania
+Idlib	Syria
+Cienfuegos	Cuba
+Bhisho	South Africa
+Chillan	Chile
+Ruse	Bulgaria
+Wau	South Sudan
+Jizzax	Uzbekistan
+Atyrau	Kazakhstan
+El Geneina	Sudan
+Andong	Korea, South
+Mocamedes	Angola
+Al Ghardaqah	Egypt
+Dong Hoi	Vietnam
+Szeged	Hungary
+Dhamar	Yemen
+Ra's al Khaymah	United Arab Emirates
+Dijon	France
+Khost	Afghanistan
+Arad	Romania
+Taunggyi	Burma
+Bingol	Turkey
+Tiraspol	Moldova
+Shahr-e Kord	Iran
+Trece Martires City	Philippines
+Catamarca	Argentina
+Jijiga	Ethiopia
+Stara Zagora	Bulgaria
+Springfield	United States
+Erzincan	Turkey
+Zonguldak	Turkey
+Isiro	Congo (Kinshasa)
+Batumi	Georgia
+Pitesti	Romania
+Chlef	Algeria
+Chetumal	Mexico
+Esmeraldas	Ecuador
+Matagalpa	Nicaragua
+Salzburg	Austria
+Ordu	Turkey
+San Cristobal	Dominican Republic
+Miskolc	Hungary
+Bartin	Turkey
+Surigao	Philippines
+Mahajanga	Madagascar
+Tuguegarao	Philippines
+Kafr ash Shaykh	Egypt
+Tete	Mozambique
+Semnan	Iran
+Kirsehir	Turkey
+Kokshetau	Kazakhstan
+Yilan	Taiwan
+Tororo	Uganda
+Chinandega	Nicaragua
+Siem Reap	Cambodia
+Cao Lanh	Vietnam
+Riobamba	Ecuador
+Copiapo	Chile
+M'Sila	Algeria
+Kragujevac	Serbia
+Jijel	Algeria
+Valdivia	Chile
+Gulu	Uganda
+La Ceiba	Honduras
+Sumbawanga	Tanzania
+Keren	Eritrea
+Kutaisi	Georgia
+Agri	Turkey
+Amasya	Turkey
+Lang Son	Vietnam
+Kastamonu	Turkey
+Goma	Congo (Kinshasa)
+Mostaganem	Algeria
+Sibiu	Romania
+Malakal	South Sudan
+Bacau	Romania
+Topeka	United States
+Man	Côte D’Ivoire
+Moshi	Tanzania
+Dar`a	Syria
+Balti	Moldova
+San Juan	Philippines
+Larisa	Greece
+Logrono	Spain
+Matanzas	Cuba
+Ilagan	Philippines
+David	Panama
+Shillong	India
+Tizi Ouzou	Algeria
+Durres	Albania
+Yalova	Turkey
+Cape Coast	Ghana
+Al Mukalla	Yemen
+Comayagua	Honduras
+Kairouan	Tunisia
+Saida	Algeria
+Florencia	Colombia
+Pleiku	Vietnam
+Coimbra	Portugal
+Ajdabiya	Libya
+Ciego de Avila	Cuba
+Pecs	Hungary
+Ghazni	Afghanistan
+Pemba	Mozambique
+Nevsehir	Turkey
+Bechar	Algeria
+Arnhem	Netherlands
+Lichinga	Mozambique
+Moundou	Chad
+Tetovo	Macedonia
+Maykop	Russia
+Lausanne	Switzerland
+Gweru	Zimbabwe
+Irakleio	Greece
+Rize	Turkey
+Vlore	Albania
+Bizerte	Tunisia
+Colima	Mexico
+Mati	Philippines
+Kidapawan	Philippines
+Masaya	Nicaragua
+Medea	Algeria
+Al `Aqabah	Jordan
+Dawei	Burma
+Zielona Gora	Poland
+Tan An	Vietnam
+Souk Ahras	Algeria
+Zacatecas	Mexico
+Barahona	Dominican Republic
+Charleston	United States
+Sancti Spiritus	Cuba
+Darwin	Australia
+Igdir	Turkey
+Lira	Uganda
+Jyvaskyla	Finland
+Encarnacion	Paraguay
+Jinotega	Nicaragua
+Giresun	Turkey
+Termiz	Uzbekistan
+Targu-Mures	Romania
+'s-Hertogenbosch	Netherlands
+Chiang Mai	Thailand
+Tobruk	Libya
+Santiago	Philippines
+May Pen	Jamaica
+Urganch	Uzbekistan
+Dumaguete City	Philippines
+Nakhon Ratchasima	Thailand
+Calapan	Philippines
+Segou	Mali
+Innsbruck	Austria
+Battambang	Cambodia
+Ouargla	Algeria
+Tra Vinh	Vietnam
+Ninh Binh	Vietnam
+Gyor	Hungary
+Ibarra	Ecuador
+Stavanger	Norway
+Karabuk	Turkey
+Lae	Papua New Guinea
+Kigoma	Tanzania
+Buea	Cameroon
+Rijeka	Croatia
+Spanish Town	Jamaica
+Dipolog	Philippines
+Surat Thani	Thailand
+Quibdo	Colombia
+Udon Thani	Thailand
+Tabora	Tanzania
+Vasteras	Sweden
+Esteli	Nicaragua
+Taldyqorghan	Kazakhstan
+Baidoa	Somalia
+Mansa	Zambia
+Opole	Poland
+Puno	Peru
+Salto	Uruguay
+Kamina	Congo (Kinshasa)
+Koforidua	Ghana
+Sakaka	Saudi Arabia
+Orebro	Sweden
+My Tho	Vietnam
+Darnah	Libya
+Port Blair	India
+Jazan	Saudi Arabia
+Lafia	Nigeria
+Tay Ninh	Vietnam
+Rustavi	Georgia
+Leiria	Portugal
+Leeuwarden	Netherlands
+Gafsa	Tunisia
+Pangkalpinang	Indonesia
+Aalborg	Denmark
+Guelma	Algeria
+Dunedin	New Zealand
+Magway	Burma
+Malanje	Angola
+Kampong Cham	Cambodia
+Santa Tecla	El Salvador
+Gorzow Wielkopolski	Poland
+Ghardaia	Algeria
+Maastricht	Netherlands
+Bimbo	Central African Republic
+Baia Mare	Romania
+Savannakhet	Laos
+Cherkessk	Russia
+Pleven	Bulgaria
+Gagnoa	Côte D’Ivoire
+Punta Arenas	Chile
+San Fernando	Philippines
+Jalapa	Guatemala
+Setubal	Portugal
+Pedro Juan Caballero	Paraguay
+Fier	Albania
+Gyumri	Armenia
+Hoa Binh	Vietnam
+Puerto Barrios	Guatemala
+Pakxe	Laos
+Gao	Mali
+Guelmim	Morocco
+San Carlos	Venezuela
+Ciudad Choluteca	Honduras
+Zahle	Lebanon
+Butwal	Nepal
+Nouadhibou	Mauritania
+Huaraz	Peru
+Lahti	Finland
+Anuradhapura	Sri Lanka
+Trento	Italy
+Kabwe	Zambia
+Jalingo	Nigeria
+Agadez	Niger
+Uzhhorod	Ukraine
+Xai-Xai	Mozambique
+Linkoping	Sweden
+Kindia	Guinea
+Nyiregyhaza	Hungary
+Kyzyl	Russia
+Machakos	Kenya
+Mendoza	Argentina
+Buzau	Romania
+Port-Gentil	Gabon
+Boke	Guinea
+Khon Kaen	Thailand
+Kilis	Turkey
+Nabeul	Tunisia
+Sabha	Libya
+Tahoua	Niger
+Toliara	Madagascar
+Maribor	Slovenia
+Iringa	Tanzania
+Kandy	Sri Lanka
+Cuito	Angola
+Laghouat	Algeria
+Kankan	Guinea
+Pul-e Khumri	Afghanistan
+City of Isabela	Philippines
+Burdur	Turkey
+Sokode	Togo
+Hualien	Taiwan
+Zwolle	Netherlands
+Khenchela	Algeria
+Shkoder	Albania
+Mopti	Mali
+Kars	Turkey
+Kuopio	Finland
+Laoag	Philippines
+Funchal	Portugal
+Namur	Belgium
+Manzini	Swaziland
+Jawhar	Somalia
+Santa Fe	United States
+Kecskemet	Hungary
+Ahuachapan	El Salvador
+Kiffa	Mauritania
+Shinyanga	Tanzania
+Montego Bay	Jamaica
+Mascara	Algeria
+Taitung	Taiwan
+Kandi	Benin
+Labe	Guinea
+Botosani	Romania
+Bukoba	Tanzania
+Musoma	Tanzania
+Ferizaj	Kosovo
+Yasuj	Iran
+Birnin Kebbi	Nigeria
+Siauliai	Lithuania
+Douliu	Taiwan
+Sliven	Bulgaria
+Songea	Tanzania
+Nakhon Si Thammarat	Thailand
+Vinh Long	Vietnam
+Subotica	Serbia
+Trincomalee	Sri Lanka
+Liberec	Czechia
+Tikrit	Iraq
+Granada	Nicaragua
+Yozgat	Turkey
+Galle	Sri Lanka
+Zomba	Malawi
+Dobrich	Bulgaria
+Catbalogan	Philippines
+Abengourou	Côte D’Ivoire
+Ed Damer	Sudan
+Santa Rosa	Argentina
+Dolisie	Congo (Brazzaville)
+Osijek	Croatia
+Ariana	Tunisia
+Gardez	Afghanistan
+Elista	Russia
+Nyeri	Kenya
+Satu Mare	Romania
+Kirklareli	Turkey
+Klagenfurt	Austria
+`Ibri	Oman
+Olomouc	Czechia
+Ancona	Italy
+Trinidad	Bolivia
+Oum el Bouaghi	Algeria
+Gangtok	India
+Diourbel	Senegal
+Ramnicu Valcea	Romania
+Viseu	Portugal
+Kohima	India
+Mingacevir	Azerbaijan
+Janakpur	Nepal
+Chipata	Zambia
+Khanty-Mansiysk	Russia
+Bismarck	United States
+Yen Bai	Vietnam
+Shumen	Bulgaria
+Half Way Tree	Jamaica
+Vi Thanh	Vietnam
+Tumbes	Peru
+Szekesfehervar	Hungary
+Xirdalan	Azerbaijan
+Balanga	Philippines
+Bunia	Congo (Kinshasa)
+Arauca	Colombia
+Totonicapan	Guatemala
+Peje	Kosovo
+Schwerin	Germany
+Tartu	Estonia
+Ceske Budejovice	Czechia
+Cankiri	Turkey
+Masbate	Philippines
+Kakamega	Kenya
+Rio Gallegos	Argentina
+Errachidia	Morocco
+Al Bahah	Saudi Arabia
+Gjakove	Kosovo
+Mtwara	Tanzania
+Drobeta-Turnu Severin	Romania
+Haskovo	Bulgaria
+Suceava	Romania
+Hradec Kralove	Czechia
+Al Fujayrah	United Arab Emirates
+Usti nad Labem	Czechia
+Sirnak	Turkey
+Miaoli	Taiwan
+Makeni	Sierra Leone
+Santiago de Compostela	Spain
+Magadan	Russia
+Pardubice	Czechia
+Bender	Moldova
+Panevezys	Lithuania
+Jaffna	Sri Lanka
+`Amran	Yemen
+Francistown	Botswana
+Catanzaro	Italy
+Jonkoping	Sweden
+Babahoyo	Ecuador
+Vanadzor	Armenia
+Tartus	Syria
+Valjevo	Serbia
+Gjilan	Kosovo
+Jalal-Abad	Kyrgyzstan
+Umea	Sweden
+Presov	Slovakia
+Balkanabat	Turkmenistan
+As Salt	Jordan
+Viana do Castelo	Portugal
+Podujeve	Kosovo
+Coronel Oviedo	Paraguay
+Ebolowa	Cameroon
+San Juan de los Morros	Venezuela
+Koudougou	Burkina Faso
+Lokossa	Benin
+Concepcion	Paraguay
+Mardin	Turkey
+Nakhon Sawan	Thailand
+Loznica	Serbia
+Tucupita	Venezuela
+Nabatiye	Lebanon
+Piatra Neamt	Romania
+Maasin	Philippines
+Kouvola	Finland
+Daugavpils	Latvia
+Pori	Finland
+Yambol	Bulgaria
+Louga	Senegal
+Puerto Maldonado	Peru
+Hetauda	Nepal
+Chaguanas	Trinidad And Tobago
+Chimaltenango	Guatemala
+Pazardzhik	Bulgaria
+Nazareth	Israel
+Mbarara	Uganda
+Lucerne	Switzerland
+Mitrovice	Kosovo
+Rivera	Uruguay
+Ouidah	Benin
+Bitola	Macedonia
+Pernik	Bulgaria
+Phuket	Thailand
+Ho	Ghana
+Zilina	Slovakia
+Resita	Romania
+Antsiranana	Madagascar
+Lodwar	Kenya
+Targu Jiu	Romania
+Abomey	Benin
+Blagoevgrad	Bulgaria
+Kasserine	Tunisia
+Elbasan	Albania
+Kayes	Mali
+Bilecik	Turkey
+Hakkari	Turkey
+Targoviste	Romania
+Galway	Ireland
+Natitingou	Benin
+Paysandu	Uruguay
+Atakpame	Togo
+Focsani	Romania
+Palmerston North	New Zealand
+Zuwarah	Libya
+Puerto Ayacucho	Venezuela
+Erdenet	Mongolia
+Ouahigouya	Burkina Faso
+Nakhon Pathom	Thailand
+Cheyenne	United States
+Ubon Ratchathani	Thailand
+Lisala	Congo (Kinshasa)
+Szombathely	Hungary
+Banska Bystrica	Slovakia
+Aveiro	Portugal
+Tambacounda	Senegal
+Wa	Ghana
+Nitra	Slovakia
+Mpanda	Tanzania
+Sankt Gallen	Switzerland
+Taluqan	Afghanistan
+Jinja	Uganda
+Berberati	Central African Republic
+Zrenjanin	Serbia
+Surt	Libya
+Pancevo	Serbia
+Abeche	Chad
+Bokhtar	Tajikistan
+Tamanrasset	Algeria
+Ramla	Israel
+Zadar	Croatia
+Zlin	Czechia
+Bistrita	Romania
+Tissemsilt	Algeria
+Joensuu	Finland
+Darhan	Mongolia
+Teyateyaneng	Lesotho
+Karlstad	Sweden
+Toledo	Spain
+Prey Veng	Cambodia
+San Andres	Colombia
+Naxcivan	Azerbaijan
+Garissa	Kenya
+Manokwari	Indonesia
+Masvingo	Zimbabwe
+Assab	Eritrea
+Salima	Malawi
+Tulcea	Romania
+Birobidzhan	Russia
+Cabadbaran	Philippines
+Farah	Afghanistan
+Monastir	Tunisia
+Skien	Norway
+Kismaayo	Somalia
+San Juan	Dominican Republic
+Dabou	Côte D’Ivoire
+Sa`dah	Yemen
+Lappeenranta	Finland
+Abancay	Peru
+Veliko Tarnovo	Bulgaria
+Cacak	Serbia
+La Chorrera	Panama
+Szolnok	Hungary
+Mamou	Guinea
+Slatina	Romania
+Bitlis	Turkey
+Ajaccio	France
+Kasese	Uganda
+Phitsanulok	Thailand
+Zinjibar	Yemen
+Oroquieta	Philippines
+Kumanovo	Macedonia
+Mindelo	Cabo Verde
+Chiang Rai	Thailand
+Sunyani	Ghana
+Liepaja	Latvia
+Sagaing	Burma
+Thakhek	Laos
+Nizwa	Oman
+Vushtrri	Kosovo
+Moquegua	Peru
+Vratsa	Bulgaria
+Putrajaya	Malaysia
+Borongan	Philippines
+Bouira	Algeria
+San Jose del Guaviare	Colombia
+Ponta Delgada	Portugal
+Gavle	Sweden
+L'Aquila	Italy
+Saki	Azerbaijan
+Marsa Matruh	Egypt
+Hameenlinna	Finland
+Lao Cai	Vietnam
+Vaasa	Finland
+Molepolole	Botswana
+Potenza	Italy
+Dimbokro	Côte D’Ivoire
+El Bayadh	Algeria
+Bolgatanga	Ghana
+Prilep	Macedonia
+Sokhumi	Georgia
+Kraljevo	Serbia
+Novi Pazar	Serbia
+Bayburt	Turkey
+Nalut	Libya
+Tatabanya	Hungary
+Mazatenango	Guatemala
+Trnava	Slovakia
+Kardzhali	Bulgaria
+Goz-Beida	Chad
+Masaka	Uganda
+Singida	Tanzania
+Ioannina	Greece
+Calarasi	Romania
+Coban	Guatemala
+Rundu	Namibia
+Songkhla	Thailand
+Solwezi	Zambia
+Kitale	Kenya
+As Suwayda'	Syria
+Faro	Portugal
+Faizabad	Afghanistan
+Sinop	Turkey
+Yoro	Honduras
+Latacunga	Ecuador
+Inhambane	Mozambique
+Alba Iulia	Romania
+Cayenne	French Guiana
+Gorno-Altaysk	Russia
+Nkhotakota	Malawi
+Kyustendil	Bulgaria
+Karakol	Kyrgyzstan
+Gabrovo	Bulgaria
+Kratie	Cambodia
+Assen	Netherlands
+Beledweyne	Somalia
+Maldonado	Uruguay
+Napier	New Zealand
+Sopron	Hungary
+Leskovac	Serbia
+Tataouine	Tunisia
+Saraburi	Thailand
+Rayong	Thailand
+Kolda	Senegal
+Santarem	Portugal
+Puerto Limon	Costa Rica
+Madang	Papua New Guinea
+Kaposvar	Hungary
+Bamyan	Afghanistan
+Medenine	Tunisia
+Rovaniemi	Finland
+Yala	Thailand
+Giurgiu	Romania
+Samut Sakhon	Thailand
+Seinajoki	Finland
+Ben Tre	Vietnam
+Gaalkacyo	Somalia
+Limerick	Ireland
+Yopal	Colombia
+Trang	Thailand
+Melo	Uruguay
+Oyem	Gabon
+Lokoja	Nigeria
+Juigalpa	Nicaragua
+Vaxjo	Sweden
+Banfora	Burkina Faso
+Uige	Angola
+Mbanza Kongo	Angola
+Veszprem	Hungary
+Uzice	Serbia
+Itanagar	India
+Suhareke	Kosovo
+Beja	Tunisia
+Bungoma	Kenya
+Merida	Spain
+Bekescsaba	Hungary
+Artemisa	Cuba
+Kitgum	Uganda
+Yevlax	Azerbaijan
+Viedma	Argentina
+Cerro de Pasco	Peru
+Kabinda	Congo (Kinshasa)
+Tacuarembo	Uruguay
+Krusevac	Serbia
+Carson City	United States
+Evora	Portugal
+Bondoukou	Côte D’Ivoire
+San Fernando	Trinidad And Tobago
+Vidin	Bulgaria
+Huehuetenango	Guatemala
+Jefferson City	United States
+Zalaegerszeg	Hungary
+Slavonski Brod	Croatia
+Magong	Taiwan
+Samut Prakan	Thailand
+Lipjan	Kosovo
+Al Mafraq	Jordan
+Mafeteng	Lesotho
+Chinhoyi	Zimbabwe
+Gumushane	Turkey
+Belize City	Belize
+Adrar	Algeria
+Bac Giang	Vietnam
+Ushuaia	Argentina
+Jelgava	Latvia
+Zalau	Romania
+Sfantu-Gheorghe	Romania
+Mugla	Turkey
+Tandag	Philippines
+Phra Nakhon Si Ayutthaya	Thailand
+Kranj	Slovenia
+Salama	Guatemala
+Zouerate	Mauritania
+Trencin	Slovakia
+Rahovec	Kosovo
+Vaslui	Romania
+Castelo Branco	Portugal
+Sankt Polten	Austria
+Vigan	Philippines
+Santa Rosa de Copan	Honduras
+Halmstad	Sweden
+Ohrid	Macedonia
+Guliston	Uzbekistan
+Lampang	Thailand
+Vranje	Serbia
+Mikkeli	Finland
+Malisheve	Kosovo
+Busia	Uganda
+Charikar	Afghanistan
+Prachuap Khiri Khan	Thailand
+Korce	Albania
+Tulcan	Ecuador
+Louangphabang	Laos
+Iganga	Uganda
+Sakon Nakhon	Thailand
+Pursat	Cambodia
+Whangarei	New Zealand
+Eger	Hungary
+Marondera	Zimbabwe
+Maha Sarakham	Thailand
+Helena	United States
+Takeo	Cambodia
+Vejle	Denmark
+Mangochi	Malawi
+Mongu	Zambia
+Alytus	Lithuania
+Jinotepe	Nicaragua
+Lamia	Greece
+Chake Chake	Tanzania
+Lankaran	Azerbaijan
+Vila Real	Portugal
+Jihlava	Czechia
+Ratnapura	Sri Lanka
+Jendouba	Tunisia
+Sombor	Serbia
+Campobasso	Italy
+Seguela	Côte D’Ivoire
+Sar-e Pul	Afghanistan
+Komotini	Greece
+Larnaca	Cyprus
+Jutiapa	Guatemala
+Sisophon	Cambodia
+Skenderaj	Kosovo
+Jarash	Jordan
+Gbadolite	Congo (Kinshasa)
+Gracias	Honduras
+Ma`an	Jordan
+Cojutepeque	El Salvador
+Selibe Phikwe	Botswana
+Moyobamba	Peru
+Al Kharijah	Egypt
+Maun	Botswana
+Zaranj	Afghanistan
+Odienne	Côte D’Ivoire
+Dosso	Niger
+Kangar	Malaysia
+Coyhaique	Chile
+Montana	Bulgaria
+Huancavelica	Peru
+Couva	Trinidad And Tobago
+Waterford	Ireland
+Nelson	New Zealand
+Wajir	Kenya
+Karlovy Vary	Czechia
+Lulea	Sweden
+Jurmala	Latvia
+Mao	Dominican Republic
+Asadabad	Afghanistan
+Invercargill	New Zealand
+Birendranagar	Nepal
+Nueva Loja	Ecuador
+Serowe	Botswana
+Mandeville	Jamaica
+Nong Khai	Thailand
+Salekhard	Russia
+Mercedes	Uruguay
+Bindura	Zimbabwe
+Gori	Georgia
+Isiolo	Kenya
+El Kef	Tunisia
+Leribe	Lesotho
+Njombe	Tanzania
+New Amsterdam	Guyana
+Hajjah	Yemen
+Kokkola	Finland
+Middelburg	Netherlands
+Murzuq	Libya
+Rosso	Mauritania
+Chitre	Panama
+Badulla	Sri Lanka
+Nagykanizsa	Hungary
+Viti	Kosovo
+Boosaaso	Somalia
+Santiago	Panama
+Kanye	Botswana
+Embu	Kenya
+Choma	Zambia
+Aweil	South Sudan
+Ostersund	Sweden
+Mahdia	Tunisia
+Sibenik	Croatia
+Cobija	Bolivia
+Antigua Guatemala	Guatemala
+Nueva Gerona	Cuba
+Solola	Guatemala
+Slobozia	Romania
+Gbarnga	Liberia
+Alexandria	Romania
+Buta	Congo (Kinshasa)
+Targovishte	Bulgaria
+Bluefields	Nicaragua
+Strumica	Macedonia
+Liberia	Costa Rica
+Pattani	Thailand
+Artigas	Uruguay
+Veles	Macedonia
+Dunaujvaros	Hungary
+Kabale	Uganda
+Umm al Qaywayn	United Arab Emirates
+Boumerdes	Algeria
+Kampong Chhnang	Cambodia
+Fort Portal	Uganda
+Stip	Macedonia
+Concord	United States
+Hodmezovasarhely	Hungary
+Kalmar	Sweden
+Zugdidi	Georgia
+Mityana	Uganda
+Kapan	Armenia
+Minas	Uruguay
+Alajuela	Costa Rica
+Franceville	Gabon
+Garbahaarrey	Somalia
+Dubrovnik	Croatia
+Quinhamel	Guinea-Bissau
+Silistra	Bulgaria
+Guarda	Portugal
+Si Sa Ket	Thailand
+Kampot	Cambodia
+Fribourg	Switzerland
+Lovech	Bulgaria
+Berat	Albania
+Sidi Bouzid	Tunisia
+Ardahan	Turkey
+Bambari	Central African Republic
+Cao Bang	Vietnam
+San Jose	Uruguay
+Daman	India
+Razgrad	Bulgaria
+Lindi	Tanzania
+Chiquimula	Guatemala
+Bodo	Norway
+Puntarenas	Costa Rica
+Narathiwat	Thailand
+La Paz	Honduras
+Palayan City	Philippines
+Lusambo	Congo (Kinshasa)
+Villarrica	Paraguay
+Saurimo	Angola
+Kisii	Kenya
+Kozani	Greece
+Puerto Francisco de Orellana	Ecuador
+Panaji	India
+Famagusta	Cyprus
+Ngozi	Burundi
+Samkir	Azerbaijan
+Parnu	Estonia
+Dun Dealgan	Ireland
+Bjelovar	Croatia
+Al Bayda'	Yemen
+Yambio	South Sudan
+Bouar	Central African Republic
+Kaya	Burkina Faso
+Inongo	Congo (Kinshasa)
+Retalhuleu	Guatemala
+Decan	Kosovo
+Xacmaz	Azerbaijan
+Chachoengsao	Thailand
+Surin	Thailand
+Koumra	Chad
+Zacatecoluca	El Salvador
+Massawa	Eritrea
+Santa Elena	Ecuador
+Mochudi	Botswana
+Tozeur	Tunisia
+Celje	Slovenia
+Florida	Uruguay
+Port-de-Paix	Haiti
+Istog	Kosovo
+Miercurea-Ciuc	Romania
+Agcabadi	Azerbaijan
+Annapolis	United States
+Durazno	Uruguay
+Xam Nua	Laos
+Tromso	Norway
+Dedougou	Burkina Faso
+Frankfort	United States
+Kavadarci	Macedonia
+Barda	Azerbaijan
+Ha Giang	Vietnam
+Tuyen Quang	Vietnam
+Karonga	Malawi
+Tunceli	Turkey
+Bossangoa	Central African Republic
+Kline	Kosovo
+Choybalsan	Mongolia
+Am-Timan	Chad
+Tenkodogo	Burkina Faso
+Trujillo	Venezuela
+Kikinda	Serbia
+Flores	Guatemala
+Paphos	Cyprus
+Ali Sabieh	Djibouti
+Adjumani	Uganda
+Dori	Burkina Faso
+Esch-sur-Alzette	Luxembourg
+Kajaani	Finland
+Salto del Guaira	Paraguay
+San Vicente	El Salvador
+Schaffhausen	Switzerland
+`Ataq	Yemen
+Prijepolje	Serbia
+Al Qunaytirah	Syria
+Chaiyaphum	Thailand
+Swords	Ireland
+Falun	Sweden
+Ratchaburi	Thailand
+Marijampole	Lithuania
+Karlskrona	Sweden
+Ebebiyin	Equatorial Guinea
+Moron	Mongolia
+Gisborne	New Zealand
+Goycay	Azerbaijan
+Chur	Switzerland
+Zacapa	Guatemala
+Krong Kep	Cambodia
+Kamenice	Kosovo
+Viborg	Denmark
+Gostivar	Macedonia
+Ventspils	Latvia
+Beja	Portugal
+Vrsac	Serbia
+La Asuncion	Venezuela
+Timbuktu	Mali
+Byumba	Rwanda
+Taibao	Taiwan
+Roi Et	Thailand
+Talas	Kyrgyzstan
+Braganca	Portugal
+Phatthalung	Thailand
+Neuchatel	Switzerland
+Santa Cruz del Quiche	Guatemala
+Luebo	Congo (Kinshasa)
+Bria	Central African Republic
+Artvin	Turkey
+Maidan Shahr	Afghanistan
+San Pedro de Ycuamandiyu	Paraguay
+Dikhil	Djibouti
+Ocotal	Nicaragua
+Kampong Thom	Cambodia
+Dragash	Kosovo
+Naryn	Kyrgyzstan
+Lahij	Yemen
+Aosta	Italy
+Kalasin	Thailand
+Jacmel	Haiti
+Swakopmund	Namibia
+Azogues	Ecuador
+Homa Bay	Kenya
+Bor	Serbia
+Mazeikiai	Lithuania
+Busia	Kenya
+Fushe Kosove	Kosovo
+Uttaradit	Thailand
+Owando	Congo (Brazzaville)
+Kakata	Liberia
+Kampong Speu	Cambodia
+Fada Ngourma	Burkina Faso
+Salgotarjan	Hungary
+Chumphon	Thailand
+Nykoping	Sweden
+Masindi	Uganda
+Bilwi	Nicaragua
+Kacanik	Kosovo
+Mamoudzou	Mayotte
+Sisak	Croatia
+Birkirkara	Malta
+Koh Kong	Cambodia
+Kyrenia	Cyprus
+Juticalpa	Honduras
+Mukdahan	Thailand
+Kericho	Kenya
+Pilar	Paraguay
+Un'goofaaru	Maldives
+Harper	Liberia
+Leticia	Colombia
+Mandera	Kenya
+Bangassou	Central African Republic
+Chachapoyas	Peru
+Rumbek	South Sudan
+Szekszard	Hungary
+Boende	Congo (Kinshasa)
+Rivas	Nicaragua
+Zug	Switzerland
+Jeremie	Haiti
+Rawson	Argentina
+Babati	Tanzania
+Chon Buri	Thailand
+Smolyan	Bulgaria
+Pallisa	Uganda
+Zaqatala	Azerbaijan
+Imisli	Azerbaijan
+Wete	Tanzania
+Mytilini	Greece
+Arendal	Norway
+Nebbi	Uganda
+Diffa	Niger
+Ungheni	Moldova
+Tripoli	Greece
+Cakovec	Croatia
+Pljevlja	Montenegro
+Kuala Belait	Brunei
+Lobatse	Botswana
+Krabi	Thailand
+Salyan	Azerbaijan
+Heredia	Costa Rica
+Banqiao	Taiwan
+Mount Hagen	Papua New Guinea
+Savanna-la-Mar	Jamaica
+Mutsamudu	Comoros
+Cahul	Moldova
+Trujillo	Honduras
+Treinta y Tres	Uruguay
+Stung Treng	Cambodia
+Tralee	Ireland
+Rezekne	Latvia
+Kanchanaburi	Thailand
+Agdas	Azerbaijan
+Doba	Chad
+Bregenz	Austria
+Katima Mulilo	Namibia
+Chalatenango	El Salvador
+Bac Kan	Vietnam
+Backa Palanka	Serbia
+Linden	Guyana
+Rocha	Uruguay
+Santa Barbara	Honduras
+Khorugh	Tajikistan
+Colonia del Sacramento	Uruguay
+Hillerod	Denmark
+Kamphaeng Phet	Thailand
+Samut Songkhram	Thailand
+Penonome	Panama
+Armavir	Armenia
+Buri Ram	Thailand
+Olgiy	Mongolia
+Mendefera	Eritrea
+Otjiwarongo	Namibia
+Kocani	Macedonia
+Mitu	Colombia
+Ouesso	Congo (Brazzaville)
+Caxito	Angola
+Popondetta	Papua New Guinea
+Qazax	Azerbaijan
+Hamar	Norway
+Jonava	Lithuania
+Bongor	Chad
+Mongo	Chad
+Dunleary	Ireland
+Koulikoro	Mali
+Kicevo	Macedonia
+Koper	Slovenia
+Al Ghayzah	Yemen
+Shtime	Kosovo
+Velenje	Slovenia
+Priboj	Serbia
+Sensuntepeque	El Salvador
+Siliana	Tunisia
+Catio	Guinea-Bissau
+La Union	El Salvador
+Nola	Central African Republic
+Bayanhongor	Mongolia
+Blenheim	New Zealand
+Moyo	Uganda
+Voinjama	Liberia
+Nakhon Phanom	Thailand
+Utena	Lithuania
+Valmiera	Latvia
+Suphan Buri	Thailand
+Dongola	Sudan
+Mendi	Papua New Guinea
+Ulaangom	Mongolia
+Gjirokaster	Albania
+Svay Rieng	Cambodia
+Sumbe	Angola
+Bajina Basta	Serbia
+Hovd	Mongolia
+Calilabad	Azerbaijan
+Amnat Charoen	Thailand
+El Tarf	Algeria
+Nar'yan-Mar	Russia
+San Marcos	Guatemala
+Zwedru	Liberia
+Tipasa	Algeria
+Fray Bentos	Uruguay
+Artashat	Armenia
+At Tafilah	Jordan
+Kerkyra	Greece
+Canelones	Uruguay
+Puyo	Ecuador
+Lambarene	Gabon
+Visby	Sweden
+Mohale's Hoek	Lesotho
+Vukovar	Croatia
+Wewak	Papua New Guinea
+Juneau	United States
+Kaga Bandoro	Central African Republic
+Tbeng Meanchey	Cambodia
+Portalegre	Portugal
+Ptuj	Slovenia
+Suhbaatar	Mongolia
+Baalbek	Lebanon
+Lop Buri	Thailand
+Carlow	Ireland
+Fatick	Senegal
+Chanthaburi	Thailand
+Kedainiai	Lithuania
+Vrbas	Serbia
+Atar	Mauritania
+Novo Mesto	Slovenia
+Guaranda	Ecuador
+Kibaha	Tanzania
+Satun	Thailand
+Phetchaburi	Thailand
+Ogre	Latvia
+Nkhata Bay	Malawi
+Tena	Ecuador
+Naas	Ireland
+Jekabpils	Latvia
+Kilkenny	Ireland
+Aarau	Switzerland
+Lamu	Kenya
+Bilasuvar	Azerbaijan
+Kayanza	Burundi
+Sibiti	Congo (Brazzaville)
+Madingou	Congo (Brazzaville)
+Mzimba	Malawi
+Sibut	Central African Republic
+Uliastay	Mongolia
+Kayunga	Uganda
+Mulanje	Malawi
+Bafata	Guinea-Bissau
+Phichit	Thailand
+Mouila	Gabon
+Loei	Thailand
+Mbaiki	Central African Republic
+Soroca	Moldova
+Nsanje	Malawi
+Phetchabun	Thailand
+Caacupe	Paraguay
+Mocoa	Colombia
+Telsiai	Lithuania
+Taurage	Lithuania
+Ghat	Libya
+Al Karak	Jordan
+Goroka	Papua New Guinea
+Nong Bua Lamphu	Thailand
+Ashtarak	Armenia
+Obiliq	Kosovo
+Haciqabul	Azerbaijan
+Bozoum	Central African Republic
+Dover	United States
+Mchinji	Malawi
+Virovitica	Croatia
+Maralal	Kenya
+Ukmerge	Lithuania
+Obock	Djibouti
+Orhei	Moldova
+Rutana	Burundi
+La Esperanza	Honduras
+Luena	Angola
+Telavi	Georgia
+Impfondo	Congo (Brazzaville)
+Quba	Azerbaijan
+Ismayilli	Azerbaijan
+Ati	Chad
+Nan	Thailand
+Yasothon	Thailand
+Bubanza	Burundi
+Somoto	Nicaragua
+Senta	Serbia
+Agsu	Azerbaijan
+Asosa	Ethiopia
+Agstafa	Azerbaijan
+Comrat	Moldova
+Guastatoya	Guatemala
+Qormi	Malta
+Arvayheer	Mongolia
+Sligo	Ireland
+Hakha	Burma
+Mubende	Uganda
+Ulcinj	Montenegro
+Tidjikja	Mauritania
+Kebili	Tunisia
+Tlaxcala	Mexico
+Kavieng	Papua New Guinea
+Faranah	Guinea
+Lezhe	Albania
+Solothurn	Switzerland
+Lai	Chad
+Budva	Montenegro
+Son La	Vietnam
+Tchibanga	Gabon
+Macas	Ecuador
+Tillaberi	Niger
+Attapu	Laos
+Baabda	Lebanon
+Mao	Chad
+Dzuunmod	Mongolia
+Harnosand	Sweden
+Keetmanshoop	Namibia
+Paraguari	Paraguay
+Hinche	Haiti
+Hun	Libya
+Kimbe	Papua New Guinea
+Dong Ha	Vietnam
+Visaginas	Lithuania
+Mansa Konko	Gambia, The
+Pakwach	Uganda
+Rwamagana	Rwanda
+Siyazan	Azerbaijan
+Leposaviq	Kosovo
+Sabirabad	Azerbaijan
+Molde	Norway
+Viljandi	Estonia
+Tsetserleg	Mongolia
+Straseni	Moldova
+Tindouf	Algeria
+Kedougou	Senegal
+Dedza	Malawi
+Sing Buri	Thailand
+Prachin Buri	Thailand
+Plunge	Lithuania
+Tunapuna	Trinidad And Tobago
+Orange Walk	Belize
+Torit	South Sudan
+Saatli	Azerbaijan
+Akhaltsikhe	Georgia
+Sa Kaeo	Thailand
+Piran	Slovenia
+Kretinga	Lithuania
+Khasab	Oman
+Ban Houayxay	Laos
+Kukes	Albania
+Tak	Thailand
+Phayao	Thailand
+Mehtar Lam	Afghanistan
+Chitipa	Malawi
+Gobabis	Namibia
+Dutse	Nigeria
+Kamuli	Uganda
+Marsabit	Kenya
+Trstenik	Serbia
+Ma'rib	Yemen
+Tukums	Latvia
+Makokou	Gabon
+Zaghouan	Tunisia
+San Ignacio	Belize
+Salaspils	Latvia
+Astara	Azerbaijan
+Phrae	Thailand
+Zvecan	Kosovo
+Puerto Carreno	Colombia
+Ntungamo	Uganda
+Cuilapa	Guatemala
+Struga	Macedonia
+Pathum Thani	Thailand
+Rakvere	Estonia
+Richmond	New Zealand
+Herceg Novi	Montenegro
+Kitui	Kenya
+San Francisco	El Salvador
+Moussoro	Chad
+Ranong	Thailand
+Nakhon Nayok	Thailand
+Mahikeng	South Africa
+Radovis	Macedonia
+Xaignabouli	Laos
+Koulamoutou	Gabon
+Villa Hayes	Paraguay
+Backa Topola	Serbia
+Causeni	Moldova
+Silute	Lithuania
+Anadyr	Russia
+Maliana	Timor-Leste
+Whakatane	New Zealand
+Sukhothai	Thailand
+Altay	Mongolia
+Peshkopi	Albania
+Gevgelija	Macedonia
+Uthai Thani	Thailand
+Ainaro	Timor-Leste
+Edinet	Moldova
+Palanga	Lithuania
+Kiboga	Uganda
+Schwyz	Switzerland
+Kurdamir	Azerbaijan
+Cesis	Latvia
+Goygol	Azerbaijan
+Manga	Burkina Faso
+Bartica	Guyana
+Radviliskis	Lithuania
+Zubin Potok	Kosovo
+Liestal	Switzerland
+Paro	Bhutan
+Phongsali	Laos
+Quthing	Lesotho
+Gwanda	Zimbabwe
+Masalli	Azerbaijan
+Fayroz Koh	Afghanistan
+Baucau	Timor-Leste
+Tadjourah	Djibouti
+Eisenstadt	Austria
+Ondorhaan	Mongolia
+Sironko	Uganda
+Debar	Macedonia
+Pierre	United States
+Luganville	Vanuatu
+Kriva Palanka	Macedonia
+Basse Santa Su	Gambia, The
+Baruun-Urt	Mongolia
+Port Antonio	Jamaica
+Gabu	Guinea-Bissau
+Neftcala	Azerbaijan
+Qusar	Azerbaijan
+Sjenica	Serbia
+Chinsali	Zambia
+Cetinje	Montenegro
+Kisoro	Uganda
+Nacaome	Honduras
+Kuressaare	Estonia
+Nova Gorica	Slovenia
+Kinkala	Congo (Brazzaville)
+Plav	Montenegro
+Saint Ann's Bay	Jamaica
+Sveti Nikole	Macedonia
+Naifaru	Maldives
+Tovuz	Azerbaijan
+Ang Thong	Thailand
+Shterpce	Kosovo
+San Carlos	Nicaragua
+Faya	Chad
+Negotino	Macedonia
+Kumi	Uganda
+Drochia	Moldova
+Delemont	Switzerland
+Nieuw Nickerie	Suriname
+Mwanza	Malawi
+Bocas del Toro	Panama
+Ormoz	Slovenia
+Kibuye	Rwanda
+Menongue	Angola
+Mariental	Namibia
+Steinkjer	Norway
+Valga	Estonia
+Ialoveni	Moldova
+Obo	Central African Republic
+Daru	Papua New Guinea
+Lamphun	Thailand
+Ziniare	Burkina Faso
+Chai Nat	Thailand
+Rokiskis	Lithuania
+At Tur	Egypt
+Voru	Estonia
+Tartar	Azerbaijan
+Glarus	Switzerland
+Druskininkai	Lithuania
+Kralendijk	Netherlands
+Hincesti	Moldova
+Ermoupoli	Greece
+Ntcheu	Malawi
+Singerei	Moldova
+Murska Sobota	Slovenia
+Bulgan	Mongolia
+Mariehamn	Finland
+Taraclia	Moldova
+Zamora	Ecuador
+Beylaqan	Azerbaijan
+Qalat	Afghanistan
+Batken	Kyrgyzstan
+Falesti	Moldova
+Assomada	Cabo Verde
+Floresti	Moldova
+Cimislia	Moldova
+Mpigi	Uganda
+Robertsport	Liberia
+Dundo	Angola
+Sezana	Slovenia
+Da Nang	Vietnam
+Sigulda	Latvia
+Catarman	Philippines
+Berane	Montenegro
+Kuldiga	Latvia
+Ndele	Central African Republic
+Fort Liberte	Haiti
+Bol	Chad
+Alotau	Papua New Guinea
+Delcevo	Macedonia
+Sanniquellie	Liberia
+Qax	Azerbaijan
+Yuscaran	Honduras
+Hadibu	Yemen
+Elektrenai	Lithuania
+Vanimo	Papua New Guinea
+Olaine	Latvia
+Magas	Russia
+Rezina	Moldova
+Loikaw	Burma
+Biltine	Chad
+La Trinidad	Philippines
+Anenii Noi	Moldova
+Karuzi	Burundi
+Calarasi	Moldova
+Vinica	Macedonia
+Izola	Slovenia
+Daskasan	Azerbaijan
+Gracanice	Kosovo
+Bela Crkva	Serbia
+Kavaratti	India
+Johvi	Estonia
+Al Mahwit	Yemen
+Ada	Serbia
+Greenville	Liberia
+Birzai	Lithuania
+Kirundo	Burundi
+Haapsalu	Estonia
+Trat	Thailand
+Sarnen	Switzerland
+Phangnga	Thailand
+Filadelfia	Paraguay
+Ordubad	Azerbaijan
+Jurbarkas	Lithuania
+Butha-Buthe	Lesotho
+Saldus	Latvia
+Altdorf	Switzerland
+Roatan	Honduras
+Sliema	Malta
+Kanjiza	Serbia
+Ondjiva	Angola
+Birao	Central African Republic
+Nisporeni	Moldova
+Vrnjacka Banja	Serbia
+Mojkovac	Montenegro
+Muyinga	Burundi
+Tarin Kot	Afghanistan
+Cacheu	Guinea-Bissau
+Vilkaviskis	Lithuania
+Nueva Ocotepeque	Honduras
+Novoberde	Kosovo
+Makamba	Burundi
+Tshabong	Botswana
+Djambala	Congo (Brazzaville)
+Pedra Badejo	Cabo Verde
+Kundiawa	Papua New Guinea
+Ikeja	Nigeria
+Rozaje	Montenegro
+Hani i Elezit	Kosovo
+Bauska	Latvia
+Thyolo	Malawi
+Riscani	Moldova
+Dobele	Latvia
+Talsi	Latvia
+Las Tablas	Panama
+Kasane	Botswana
+Katakwi	Uganda
+Anyksciai	Lithuania
+Evinayong	Equatorial Guinea
+Zabalj	Serbia
+Stans	Switzerland
+Dangriga	Belize
+Inirida	Colombia
+Ewo	Congo (Brazzaville)
+Manatuto	Timor-Leste
+Odzaci	Serbia
+Gizo	Solomon Islands
+Sremski Karlovci	Serbia
+Gleno	Timor-Leste
+Mokhotlong	Lesotho
+Corozal	Belize
+Gavarr	Armenia
+Saynshand	Mongolia
+Joniskis	Lithuania
+Glodeni	Moldova
+Paide	Estonia
+Santo Domingo Este	Dominican Republic
+Aleg	Mauritania
+Prienai	Lithuania
+Basarabeasca	Moldova
+Zardab	Azerbaijan
+Greymouth	New Zealand
+Varena	Lithuania
+Brokopondo	Suriname
+Kalibo	Philippines
+Soro	Denmark
+Balakan	Azerbaijan
+Kelme	Lithuania
+Yeghegnadzor	Armenia
+Ndalatando	Angola
+Beocin	Serbia
+Qobustan	Azerbaijan
+Soroti	Uganda
+Sao Filipe	Cabo Verde
+Port Maria	Jamaica
+Ludza	Latvia
+Nangan	Taiwan
+Mtskheta	Georgia
+Sokobanja	Serbia
+Kraslava	Latvia
+Illizi	Algeria
+Fgura	Malta
+San Juan Bautista	Paraguay
+Falmouth	Jamaica
+Mahmud-e Raqi	Afghanistan
+Hamrun	Malta
+Aizkraukle	Latvia
+Koboko	Uganda
+Naftalan	Azerbaijan
+Bentiu	South Sudan
+Luba	Equatorial Guinea
+Arafat	Mauritania
+Sen Monorom	Cambodia
+Gulbene	Latvia
+Leova	Moldova
+San Jose	Philippines
+Ruse	Slovenia
+Oguz	Azerbaijan
+Briceni	Moldova
+Mongomo	Equatorial Guinea
+Goranboy	Azerbaijan
+Ruyigi	Burundi
+Lerik	Azerbaijan
+Montpelier	United States
+Monaghan	Ireland
+Livani	Latvia
+Ocnita	Moldova
+Mobaye	Central African Republic
+Telenesti	Moldova
+Limbazi	Latvia
+Hola	Kenya
+Madona	Latvia
+Lapovo	Serbia
+Donduseni	Moldova
+Stefan Voda	Moldova
+Nakasongola	Uganda
+Daet	Philippines
+Berovo	Macedonia
+Trindade	Sao Tome And Principe
+Virac	Philippines
+Kratovo	Macedonia
+Aluksne	Latvia
+Senglea	Malta
+Mahibadhoo	Maldives
+Ajdovscina	Slovenia
+Backi Petrovac	Serbia
+Farim	Guinea-Bissau
+Criuleni	Moldova
+Pasvalys	Lithuania
+Eydhafushi	Maldives
+Diekirch	Luxembourg
+Salcininkai	Lithuania
+Ikskile	Latvia
+Stratford	New Zealand
+Bayombong	Philippines
+Tarxien	Malta
+Preili	Latvia
+Mae Hong Son	Thailand
+Jolo	Philippines
+Puerto Baquerizo Moreno	Ecuador
+Bongao	Philippines
+Zarasai	Lithuania
+Sal Rei	Cabo Verde
+Jogeva	Estonia
+Balvi	Latvia
+Kupiskis	Lithuania
+Ghanzi	Botswana
+Polva	Estonia
+Espargos	Cabo Verde
+Junik	Kosovo
+Siteki	Swaziland
+Schaan	Liechtenstein
+Viqueque	Timor-Leste
+Lucea	Jamaica
+Rapla	Estonia
+Bac	Serbia
+Ben Arous	Tunisia
+Bogdanci	Macedonia
+Kazlu Ruda	Lithuania
+Lielvarde	Latvia
+Muramvya	Burundi
+Imsida	Malta
+Soldanesti	Moldova
+Appenzell	Switzerland
+Echternach	Luxembourg
+Ranillug	Kosovo
+Idrija	Slovenia
+Hrastnik	Slovenia
+Lorengau	Papua New Guinea
+Tevragh Zeina	Mauritania
+Santa Venera	Malta
+Sirvintos	Lithuania
+Mamushe	Kosovo
+Gospic	Croatia
+Sisimiut	Greenland
+Kerema	Papua New Guinea
+Skuodas	Lithuania
+Pieta	Malta
+Ta' Xbiex	Malta
+Moletai	Lithuania
+Partesh	Kosovo
+Salavan	Laos
+Krusevo	Macedonia
+Caazapa	Paraguay
+Thaba-Tseka	Lesotho
+Qal`ah-ye Now	Afghanistan
+Sakiai	Lithuania
+Kalangala	Uganda
+Outapi	Namibia
+Pale	Equatorial Guinea
+Smiltene	Latvia
+Ros Comain	Ireland
+Albina	Suriname
+Gzira	Malta
+Wangdue Phodrang	Bhutan
+Manouba	Tunisia
+Kanifing	Gambia, The
+Liquica	Timor-Leste
+Silale	Lithuania
+Gadabay	Azerbaijan
+Ilulissat	Greenland
+Punta Gorda	Belize
+Punakha	Bhutan
+Aibak	Afghanistan
+Bled	Slovenia
+Opuwo	Namibia
+Kiambu	Kenya
+Nieuw Amsterdam	Suriname
+Bolama	Guinea-Bissau
+Irig	Serbia
+Puerto Lempira	Honduras
+Mauren	Liechtenstein
+Klaksvik	Faroe Islands
+Bururi	Burundi
+Ta Khmau	Cambodia
+Coka	Serbia
+Beni Mellal	Morocco
+Hung Yen	Vietnam
+Pakruojis	Lithuania
+Valka	Latvia
+Bueng Kan	Thailand
+San Gwann	Malta
+Rumphi	Malawi
+Dravograd	Slovenia
+Valandovo	Macedonia
+Svencionys	Lithuania
+Trakai	Lithuania
+Remich	Luxembourg
+Isulan	Philippines
+Black River	Jamaica
+Aizpute	Latvia
+Calheta de Sao Miguel	Cabo Verde
+Bensonville	Liberia
+Al `Aziziyah	Libya
+Boac	Philippines
+Grevenmacher	Luxembourg
+Kalvarija	Lithuania
+San Giljan	Malta
+Gornja Radgona	Slovenia
+Tubod	Philippines
+Mamburao	Philippines
+Wabag	Papua New Guinea
+Baldone	Latvia
+Lazdijai	Lithuania
+Agdam	Azerbaijan
+Kardla	Estonia
+Nabunturan	Philippines
+Bugiri	Uganda
+Kaberamaido	Uganda
+Malita	Philippines
+Makedonski Brod	Macedonia
+Janjanbureh	Gambia, The
+Cankuzo	Burundi
+Moroto	Uganda
+Gambela	Ethiopia
+Massenya	Chad
+Kandava	Latvia
+Grobina	Latvia
+Vittoriosa	Malta
+Ankaran	Slovenia
+Balzan	Malta
+Thinadhoo	Maldives
+Funadhoo	Maldives
+Cantemir	Moldova
+Bangued	Philippines
+Alibunar	Serbia
+Hartford	United States
+Rietavas	Lithuania
+Mambajao	Philippines
+Groningen	Suriname
+Pehcevo	Macedonia
+Qaqortoq	Greenland
+Louang Namtha	Laos
+Kaabong	Uganda
+Kulhudhuffushi	Maldives
+Naval	Philippines
+Plavinas	Latvia
+Probistip	Macedonia
+Mullingar	Ireland
+Aasiaat	Greenland
+Porto Ingles	Cabo Verde
+Lethem	Guyana
+Dhihdhoo	Maldives
+Balaka	Malawi
+Mosta	Malta
+Mabaruma	Guyana
+Mandalgovi	Mongolia
+Vilani	Latvia
+Saulkrasti	Latvia
+Lendava	Slovenia
+Kudahuvadhoo	Maldives
+Kapchorwa	Uganda
+Sao Domingos	Cabo Verde
+Rujiena	Latvia
+Arima	Trinidad And Tobago
+Novo Selo	Macedonia
+Rasdhoo	Maldives
+Kerewan	Gambia, The
+Koknese	Latvia
+Kolonia	Micronesia, Federated States Of
+Zabbar	Malta
+Broceni	Latvia
+Al Wakrah	Qatar
+Tallaght	Ireland
+Barclayville	Liberia
+Salacgriva	Latvia
+Floriana	Malta
+Swieqi	Malta
+Skofja Loka	Slovenia
+Iba	Philippines
+Kllokot	Kosovo
+Cestos City	Liberia
+Bundibugyo	Uganda
+Demir Hisar	Macedonia
+Garoowe	Somalia
+Demir Kapija	Macedonia
+Domzale	Slovenia
+Lingayen	Philippines
+Fuerte Olimpo	Paraguay
+Birstonas	Lithuania
+Akmene	Lithuania
+Banlung	Cambodia
+Phu Ly	Vietnam
+Basse-Terre	Guadeloupe
+Nida	Lithuania
+Wicklow	Ireland
+Ilukste	Latvia
+Cospicua	Malta
+Kalkara	Malta
+Auce	Latvia
+Romblon	Philippines
+Ravne na Koroskem	Slovenia
+Thulusdhoo	Maldives
+Clonmel	Ireland
+Wexford	Ireland
+Naklo	Slovenia
+Marsaskala	Malta
+Marka	Somalia
+Viligili	Maldives
+Cidade Velha	Cabo Verde
+Oshakati	Namibia
+Priekule	Latvia
+Kegums	Latvia
+Alabel	Philippines
+Chiradzulu	Malawi
+Lija	Malta
+Dagda	Latvia
+Victoria	Malta
+Bariadi	Tanzania
+Onverwacht	Suriname
+Same	Timor-Leste
+Hoima	Uganda
+Baler	Philippines
+Zejtun	Malta
+Geita	Tanzania
+Ennis	Ireland
+Ambrolauri	Georgia
+Kabarnet	Kenya
+Jagodina	Serbia
+Mukono	Uganda
+Karsava	Latvia
+Skrunda	Latvia
+Migori	Kenya
+Kerugoya	Kenya
+Siquijor	Philippines
+Yumbe	Uganda
+Fontana	Malta
+Jaunjelgava	Latvia
+Paola	Malta
+Sihanoukville	Cambodia
+Buchanan	Liberia
+Varaklani	Latvia
+Xghajra	Malta
+La Palma	Panama
+Hithadhoo	Maldives
+Iklin	Malta
+Slovenske Konjice	Slovenia
+Vinh Yen	Vietnam
+Dar Naim	Mauritania
+Iten	Kenya
+Veymandoo	Maldives
+Mezica	Slovenia
+Phalombe	Malawi
+Nyamira	Kenya
+Machinga	Malawi
+Totness	Suriname
+Longford	Ireland
+Auki	Solomon Islands
+Kirkop	Malta
+Trim	Ireland
+Felidhoo	Maldives
+Aioun	Mauritania
+Xuddur	Somalia
+Kasaali	Uganda
+Kapsabet	Kenya
+Pembroke	Malta
+Lubana	Latvia
+Sabac	Serbia
+Nilandhoo	Maldives
+Viesite	Latvia
+Kirakira	Solomon Islands
+Kamnik	Slovenia
+Radlje ob Dravi	Slovenia
+Carrick on Shannon	Ireland
+Attard	Malta
+Marsa	Malta
+Foammulah	Maldives
+Bu'aale	Somalia
+Tullamore	Ireland
+Zilupe	Latvia
+Fomboni	Comoros
+Grosuplje	Slovenia
+Kurunegala	Sri Lanka
+Cesvaine	Latvia
+Xocali	Azerbaijan
+Murang'a	Kenya
+Bududa	Uganda
+Lagawe	Philippines
+Gharghur	Malta
+Zebbug	Malta
+Zagorje	Slovenia
+Slovenj Gradec	Slovenia
+Sotik Post	Kenya
+Gudja	Malta
+Vreed-en-Hoop	Guyana
+Escaldes-Engordany	Andorra
+Gornji Milanovac	Serbia
+Relizane	Algeria
+Vilaka	Latvia
+Zalec	Slovenia
+Litija	Slovenia
+Imqabba	Malta
+Tam Ky	Vietnam
+Saint Paul's Bay	Malta
+Krsko	Slovenia
+Jesenice	Slovenia
+Radovljica	Slovenia
+Marsaxlokk	Malta
+Prevalje	Slovenia
+Weno	Micronesia, Federated States Of
+Taro	Solomon Islands
+Ghaxaq	Malta
+Birzebbuga	Malta
+Zurrieq	Malta
+Naxxar	Malta
+Sopiste	Macedonia
+Trbovlje	Slovenia
+Muli	Maldives
+Ar Rayyan	Qatar
+Mazsalaca	Latvia
+Wakiso	Uganda
+Ivancna Gorica	Slovenia
+Aloja	Latvia
+Strenci	Latvia
+Rogaska Slatina	Slovenia
+Lyantonde	Uganda
+Ipil	Philippines
+Ain Temouchent	Algeria
+Aregua	Paraguay
+Serravalle	San Marino
+Halba	Lebanon
+Nenagh	Ireland
+Akniste	Latvia
+Pavilosta	Latvia
+Ligatne	Latvia
+Lasko	Slovenia
+Chikwawa	Malawi
+Kasungu	Malawi
+Safi	Malta
+Labuan	Malaysia
+Lata	Solomon Islands
+Pozega	Serbia
+Imtarfa	Malta
+Picos	Cabo Verde
+Kercem	Malta
+An Cabhan	Ireland
+Fonadhoo	Maldives
+Zirovnica	Slovenia
+Manadhoo	Maldives
+Ribeira Grande	Cabo Verde
+Ponta do Sol	Cabo Verde
+Krupanj	Serbia
+Lebane	Serbia
+Store	Slovenia
+Siaya	Kenya
+Ape	Latvia
+Cerklje na Gorenjskem	Slovenia
+Isale	Burundi
+Sostanj	Slovenia
+Dien Bien Phu	Vietnam
+P'yongsong	Korea, North
+Luqa	Malta
+Scarborough	Trinidad And Tobago
+Diego Martin	Trinidad And Tobago
+Vladicin Han	Serbia
+Knjazevac	Serbia
+Basco	Philippines
+Ljubovija	Serbia
+Slovenska Bistrica	Slovenia
+Smederevska Palanka	Serbia
+Mahonda	Tanzania
+Mali Zvornik	Serbia
+Point Fortin	Trinidad And Tobago
+Port Laoise	Ireland
+Surdulica	Serbia
+Pozarevac	Serbia
+Mayuge	Uganda
+Varazdin	Croatia
+Shariff Aguak	Philippines
+Zajecar	Serbia
+Lakatoro	Vanuatu
+Sentjur	Slovenia
+Al Khawr	Qatar
+Dowa	Malawi
+Castlebar	Ireland
+Ain Defla	Algeria
+Madaba	Jordan
+Selibaby	Mauritania
+Cabarroguis	Philippines
+Asaba	Nigeria
+Prebold	Slovenia
+Tulagi	Solomon Islands
+Miklavz na Dravskem Polju	Slovenia
+Jordan	Philippines
+Aranguez	Trinidad And Tobago
+Sempeter pri Gorici	Slovenia
+Mozirje	Slovenia
+Rumonge	Burundi
+Trebnje	Slovenia
+Paracin	Serbia
+Bulambuli	Uganda
+Borgo Maggiore	San Marino
+Maracha	Uganda
+Luwero	Uganda
+Kapenguria	Kenya
+Polzela	Slovenia
+Yenagoa	Nigeria
+Qrendi	Malta
+Namayingo	Uganda
+Xewkija	Malta
+Lucani	Serbia
+Brezice	Slovenia
+Suong	Cambodia
+Ghasri	Malta
+Gllogovc	Kosovo
+Kocevje	Slovenia
+Smederevo	Serbia
+Dong Xoai	Vietnam
+Mila	Algeria
+Al Buraymi	Oman
+Bontoc	Philippines
+Da Lat	Vietnam
+Luuka Town	Uganda
+Dingli	Malta
+Kabugao	Philippines
+Hunedoara	Romania
+Spodnje Hoce	Slovenia
+Selnica ob Dravi	Slovenia
+Aleksinac	Serbia
+Despotovac	Serbia
+Jincheng	Taiwan
+Smartno	Slovenia
+Cibitoke	Burundi
+Medvode	Slovenia
+Kibuku	Uganda
+Bupoto	Uganda
+Xaghra	Malta
+Lenart v Slovenskih Goricah	Slovenia
+Lai Chau	Vietnam
+Neno	Malawi
+Moravce	Slovenia
+Apac	Uganda
+Imdina	Malta
+Kladovo	Serbia
+Kanal	Slovenia
+Nadur	Malta
+Nazarje	Slovenia
+Menges	Slovenia
+Zrece	Slovenia
+Preddvor	Slovenia
+Rubirizi	Uganda
+Vuzenica	Slovenia
+Vwawa	Tanzania
+Vrhnika	Slovenia
+Pirot	Serbia
+Domagnano	San Marino
+Busesa	Uganda
+Sevnica	Slovenia
+Poljcane	Slovenia
+Vlasotince	Serbia
+Prosperidad	Philippines
+Koani	Tanzania
+Dhuusamarreeb	Somalia
+Ziri	Slovenia
+Smarje	Slovenia
+Komenda	Slovenia
+Metlika	Slovenia
+Sannat	Malta
+Fada	Chad
+Vojnik	Slovenia
+Skofljica	Slovenia
+Brezovica	Slovenia
+Buala	Solomon Islands
+Buikwe	Uganda
+Kagadi	Uganda
+Muta	Slovenia
+Radenci	Slovenia
+Log	Slovenia
+Eschen	Liechtenstein
+Colonia	Micronesia, Federated States Of
+Spodnji Duplek	Slovenia
+Bushenyi	Uganda
+Waitangi	New Zealand
+Schellenberg	Liechtenstein
+Eenhana	Namibia
+Acquaviva	San Marino
+Siggiewi	Malta
+Kon Tum	Vietnam
+Rabat	Malta
+Ash Shihaniyah	Qatar
+Borovnica	Slovenia
+Kaliro	Uganda
+Ljutomer	Slovenia
+Aracinovo	Macedonia
+Prokuplje	Serbia
+Batocina	Serbia
+Afega	Samoa
+Mellieha	Malta
+Umm Salal `Ali	Qatar
+Aileu	Timor-Leste
+Oplotnica	Slovenia
+Fiorentino	San Marino
+Butebo	Uganda
+Akjoujt	Mauritania
+Namutumba	Uganda
+Debe	Trinidad And Tobago
+Miragoane	Haiti
+Lukovica	Slovenia
+Dogbo	Benin
+Smartno	Slovenia
+Abakaliki	Nigeria
+Manafwa	Uganda
+Dimitrovgrad	Serbia
+Sencur	Slovenia
+Ibanda	Uganda
+Mirna	Slovenia
+Race	Slovenia
+Lelystad	Netherlands
+Crnomelj	Slovenia
+Wote	Kenya
+Mwatate	Kenya
+Vitanje	Slovenia
+Munxar	Malta
+Doljevac	Serbia
+Rukungiri	Uganda
+Ghajnsielem	Malta
+Lifford	Ireland
+Isangel	Vanuatu
+Koprivnica	Croatia
+Toftir	Faroe Islands
+Gombe	Uganda
+Sentjernej	Slovenia
+Montegiardino	San Marino
+Kyenjojo	Uganda
+`Ajlun	Jordan
+Velika Plana	Serbia
+Az Za`ayin	Qatar
+Qala	Malta
+Al Jabin	Yemen
+Mitoma	Uganda
+Kalungu	Uganda
+Brvenica	Macedonia
+Svilajnac	Serbia
+Ad Dali`	Yemen
+Santa Cruz	Philippines
+Santa Lucija	Malta
+Majsperk	Slovenia
+Bukomansimbi	Uganda
+Svrljig	Serbia
+Horjul	Slovenia
+Postojna	Slovenia
+Luce	Slovenia
+Spodnja Hajdina	Slovenia
+Nelspruit	South Africa
+Sid	Serbia
+Negotin	Serbia
+Kajiado	Kenya
+Vodice	Slovenia
+Rubanda	Uganda
+Dapaong	Togo
+Pivka	Slovenia
+Braslovce	Slovenia
+Butaleja	Uganda
+Sakete	Benin
+Tivat	Montenegro
+Lovrenc na Pohorju	Slovenia
+Ruggell	Liechtenstein
+Crna na Koroskem	Slovenia
+Pesnica	Slovenia
+Serere	Uganda
+Cerknica	Slovenia
+Amuria	Uganda
+Gamprin	Liechtenstein
+Kenge	Congo (Kinshasa)
+Nsiika	Uganda
+Bojnik	Serbia
+Kibiito	Uganda
+Kibingo	Uganda
+Capellen	Luxembourg
+Bukedea	Uganda
+Dobrna	Slovenia
+Samraong	Cambodia
+Ntara	Uganda
+Wiltz	Luxembourg
+Binyin	Uganda
+Sentilj	Slovenia
+Kaedi	Mauritania
+Vransko	Slovenia
+Lubango	Angola
+Sentrupert	Slovenia
+Mparo	Uganda
+Odranci	Slovenia
+Kinoni	Uganda
+Ol Kalou	Kenya
+Logatec	Slovenia
+Kole	Uganda
+Trzic	Slovenia
+Zebbug	Malta
+Bohinjska Bistrica	Slovenia
+Zombo	Uganda
+Narok	Kenya
+Rakai	Uganda
+Encamp	Andorra
+Lwengo	Uganda
+Trzin	Slovenia
+Recica	Slovenia
+Heydarabad	Azerbaijan
+Gorisnica	Slovenia
+Imgarr	Malta
+Bukwo	Uganda
+Omuthiya	Namibia
+Volcja Draga	Slovenia
+Kasanda	Uganda
+Dokolo	Uganda
+Dornava	Slovenia
+Leulumoega	Samoa
+Koronadal	Philippines
+Beltinci	Slovenia
+Topola	Serbia
+Bogovinje	Macedonia
+Balzers	Liechtenstein
+Kamwenge	Uganda
+Zelezniki	Slovenia
+Ngora	Uganda
+Kara	Togo
+Dol	Slovenia
+Ig	Slovenia
+Techiman	Ghana
+Guadalupe	Sao Tome And Principe
+Alebtong	Uganda
+Brcko	Bosnia And Herzegovina
+Gorenja Vas	Slovenia
+Pante Macassar	Timor-Leste
+Gharb	Malta
+Cerkno	Slovenia
+Suai	Timor-Leste
+Lospalos	Timor-Leste
+Stari Trg	Slovenia
+Chiesanuova	San Marino
+Sveti Jurij	Slovenia
+Pombas	Cabo Verde
+Videm	Slovenia
+Kanungu	Uganda
+Ljubno	Slovenia
+Ulbroka	Latvia
+Straza	Slovenia
+Kanoni	Uganda
+Kokopo	Papua New Guinea
+Oranjestad	Netherlands
+Sejong	Korea, South
+Tisina	Slovenia
+Ramotswa	Botswana
+Mulifanua	Samoa
+Smarjeske Toplice	Slovenia
+Vrapciste	Macedonia
+Kidricevo	Slovenia
+Semic	Slovenia
+Oyam	Uganda
+Pozega	Croatia
+Ilinden	Macedonia
+Starse	Slovenia
+Dobrovo	Slovenia
+Turnisce	Slovenia
+Gia Nghia	Vietnam
+Blace	Serbia
+La Massana	Andorra
+Tabor	Slovenia
+Saltangara	Faroe Islands
+Krizevci	Slovenia
+Siparia	Trinidad And Tobago
+Tutong	Brunei
+Sembabule	Uganda
+Vianden	Luxembourg
+Tsirang	Bhutan
+Kakumiro	Uganda
+Pailin	Cambodia
+Petrovec	Macedonia
+Sveta Trojica v Slovenskih Goricah	Slovenia
+Sveta Ana	Slovenia
+Tolmin	Slovenia
+Rabak	Sudan
+Princes Town	Trinidad And Tobago
+Tarrafal	Cabo Verde
+Triesen	Liechtenstein
+Benedikt	Slovenia
+Studenicani	Macedonia
+Sant Julia de Loria	Andorra
+Faetano	San Marino
+Buyende	Uganda
+Joao Teves	Cabo Verde
+Santana	Sao Tome And Principe
+Kalaki	Uganda
+Kwale	Kenya
+Isingiro	Uganda
+Apatin	Serbia
+Marupe	Latvia
+Kyegegwa	Uganda
+San Lawrenz	Malta
+Radece	Slovenia
+Sefwi Wiawso	Ghana
+Mersch	Luxembourg
+Ucar	Azerbaijan
+Dolenjske Toplice	Slovenia
+Hongseong	Korea, South
+Strendur	Faroe Islands
+Tearce	Macedonia
+Tuzi	Montenegro
+Verzej	Slovenia
+Zgornja Kungota	Slovenia
+Cuprija	Serbia
+Muan	Korea, South
+Jegunovce	Macedonia
+Crensovci	Slovenia
+Zelino	Macedonia
+The Bottom	Netherlands
+Mirna Pec	Slovenia
+Saratamata	Vanuatu
+Rumuruti	Kenya
+Arilje	Serbia
+Kovin	Serbia
+Butalangu	Uganda
+Boljevac	Serbia
+San Jose de las Lajas	Cuba
+Vipava	Slovenia
+Ilirska Bistrica	Slovenia
+Markovci	Slovenia
+Zuzemberk	Slovenia
+Phon-Hong	Laos
+Kosjeric	Serbia
+Tvoroyri	Faroe Islands
+Dobrova	Slovenia
+Amolatar	Uganda
+Lelydorp	Suriname
+Velike Lasce	Slovenia
+Puconci	Slovenia
+Morant Bay	Jamaica
+Skocjan	Slovenia
+Qubadli	Azerbaijan
+Ozurgeti	Georgia
+Cicevac	Serbia
+Mokronog	Slovenia
+Bakjagol	Korea, South
+Plandiste	Serbia
+Kozina	Slovenia
+Velika Polana	Slovenia
+Cankova	Slovenia
+Sredisce ob Dravi	Slovenia
+Lamwo	Uganda
+Hrazdan	Armenia
+Bangolo	Côte D’Ivoire
+Rogasovci	Slovenia
+Bogatic	Serbia
+Lipkovo	Macedonia
+Varvarin	Serbia
+Oblesevo	Macedonia
+Razanj	Serbia
+San Jose	Philippines
+Ilam	Iran
+Mongar	Bhutan
+Godawari	Nepal
+Mionica	Serbia
+Kurumul	Papua New Guinea
+Arandelovac	Serbia
+Kula	Serbia
+Nova Vas	Slovenia
+Apace	Slovenia
+Cerkvenjak	Slovenia
+Haa	Bhutan
+Krapina	Croatia
+Palenga	Uganda
+Singa	Sudan
+Novi Becej	Serbia
+Becej	Serbia
+Kuzma	Slovenia
+Sarur	Azerbaijan
+Jursinci	Slovenia
+Port Loko	Sierra Leone
+Gornji Grad	Slovenia
+Zitorada	Serbia
+Videm pri Ptuju	Slovenia
+Kotido	Uganda
+Titel	Serbia
+Pul-e `Alam	Afghanistan
+Lacin	Azerbaijan
+Cirkulane	Slovenia
+Bar	Montenegro
+Ribnica	Slovenia
+Miren	Slovenia
+Sharan	Afghanistan
+Boorama	Somalia
+Tari	Papua New Guinea
+Zavrc	Slovenia
+Planken	Liechtenstein
+Cocieri	Moldova
+Pader	Uganda
+Merosina	Serbia
+Fuglafjordhur	Faroe Islands
+Triesenberg	Liechtenstein
+Lufilufi	Samoa
+Bovec	Slovenia
+Podlehnik	Slovenia
+Kotor	Montenegro
+Stara Pazova	Serbia
+Carnikava	Latvia
+Clervaux	Luxembourg
+Redange-sur-Attert	Luxembourg
+Bosilovo	Macedonia
+Goaso	Ghana
+Vevcani	Macedonia
+Dambai	Ghana
+Yardimli	Azerbaijan
+Igreja	Cabo Verde
+Kaffrine	Senegal
+Ribnica	Slovenia
+Zgornje Gorje	Slovenia
+Kekava	Latvia
+Tomaz pri Ormozu	Slovenia
+Sangre Grande	Trinidad And Tobago
+Gaoua	Burkina Faso
+Nhlangano	Swaziland
+Ordino	Andorra
+Bosilegrad	Serbia
+Knic	Serbia
+Kostanjevica na Krki	Slovenia
+Canillo	Andorra
+Agago	Uganda
+Fort Wellington	Guyana
+Vitomarci	Slovenia
+Nova Sintra	Cabo Verde
+Suhar	Oman
+Komen	Slovenia
+Secanj	Serbia
+Fuzuli	Azerbaijan
+Nalerigu	Ghana
+Divaca	Slovenia
+Destrnik	Slovenia
+Incukalns	Latvia
+Kozje	Slovenia
+Nili	Afghanistan
+Bulisa	Uganda
+Phonsavan	Laos
+Plasnica	Macedonia
+Amudat	Uganda
+Jurovski Dol	Slovenia
+Kovacica	Serbia
+Nabilatuk	Uganda
+Nkurenkuru	Namibia
+Pakxan	Laos
+Dobje	Slovenia
+Gornji Petrovci	Slovenia
+Samdrup Jongkhar	Bhutan
+Moravske-Toplice	Slovenia
+Podvelka	Slovenia
+Trnovska Vas	Slovenia
+Sarpang	Bhutan
+Makole	Slovenia
+Grad	Slovenia
+Trashigang	Bhutan
+Adazi	Latvia
+Qabala	Azerbaijan
+Ozolnieki	Latvia
+Neves	Sao Tome And Principe
+Medveda	Serbia
+Napak	Uganda
+Vagur	Faroe Islands
+Pemagatshel	Bhutan
+Cova Figueira	Cabo Verde
+Zitiste	Serbia
+Sofifi	Indonesia
+Razkrizje	Slovenia
+Rustavi	Georgia
+Cajetina	Serbia
+Krivogastani	Macedonia
+Rogatec	Slovenia
+Qacha's Nek	Lesotho
+Sremska Mitrovica	Serbia
+Safotulafai	Samoa
+Ivanjica	Serbia
+Kuacjok	South Sudan
+Sedhiou	Senegal
+Tubmanburg	Liberia
+Indija	Serbia
+Vasilevo	Macedonia
+Zabari	Serbia
+Ed Daein	Sudan
+Tabuk	Philippines
+Osilnica	Slovenia
+Petrovac na Mlavi	Serbia
+Pazin	Croatia
+Savalou	Benin
+Mali Idos	Serbia
+Centar Zupa	Macedonia
+Ub	Serbia
+Raca	Serbia
+Srbobran	Serbia
+Ljig	Serbia
+Kiryandongo	Uganda
+Rekovac	Serbia
+Skopun	Faroe Islands
+Mamuju	Indonesia
+Hargeysa	Somalia
+Kiruhura	Uganda
+Leava	Wallis And Futuna
+Garkalne	Latvia
+Santo Antonio	Sao Tome And Principe
+Zrnovci	Macedonia
+Novi Knezevac	Serbia
+Cabrayil	Azerbaijan
+Tsimasham	Bhutan
+Lajkovac	Serbia
+Ijevan	Armenia
+Bijelo Polje	Montenegro
+Madinat ash Shamal	Qatar
+Bazarak	Afghanistan
+Aleksandrovac	Serbia
+Petnjica	Montenegro
+Sodrazica	Slovenia
+Samux	Azerbaijan
+Dobrovnik	Slovenia
+Pala	Chad
+Matam	Senegal
+Abim	Uganda
+Dalandzadgad	Mongolia
+Rio Claro	Trinidad And Tobago
+Malo Crnice	Serbia
+Pinki	Latvia
+Kursumlija	Serbia
+Ntoroko	Uganda
+Davaci	Azerbaijan
+Cucer-Sandevo	Macedonia
+Raska	Serbia
+Mislinja	Slovenia
+Golubac	Serbia
+Nordhragota	Faroe Islands
+Pecinci	Serbia
+Qivraq	Azerbaijan
+Nova Crnja	Serbia
+Podcetrtek	Slovenia
+Samamea	Samoa
+Xai	Laos
+Ar Rustaq	Oman
+Majdanpek	Serbia
+Danilovgrad	Montenegro
+Buka	Papua New Guinea
+Makedonska Kamenica	Macedonia
+Satupa`itea	Samoa
+Otuke	Uganda
+Ruma	Serbia
+Samtse	Bhutan
+Skriveri	Latvia
+Asau	Samoa
+Hrib-Loski Potok	Slovenia
+Niksic	Montenegro
+Sur	Oman
+Dolneni	Macedonia
+Safotu	Samoa
+Kalbacar	Azerbaijan
+Kobilje	Slovenia
+Vladimirci	Serbia
+Vailoa	Samoa
+Kranjska Gora	Slovenia
+Amuru	Uganda
+Iecava	Latvia
+Rosoman	Macedonia
+Priekuli	Latvia
+Buabidi	Panama
+Gusinje	Montenegro
+Ribeira Brava	Cabo Verde
+Ibra'	Oman
+Zetale	Slovenia
+Susa	Azerbaijan
+Tutin	Serbia
+Zelenikovo	Macedonia
+Resen	Macedonia
+Babusnica	Serbia
+Xocavand	Azerbaijan
+Sorvagur	Faroe Islands
+Kaisiadorys	Lithuania
+Brus	Serbia
+Sahbuz	Azerbaijan
+Hvannasund	Faroe Islands
+Eidhi	Faroe Islands
+Massakory	Chad
+Salovci	Slovenia
+Osecina	Serbia
+Buba	Guinea-Bissau
+Al Hazm	Yemen
+Mogila	Macedonia
+Nakapiripirit	Uganda
+Barentu	Eritrea
+Veliko Gradiste	Serbia
+Bangar	Brunei
+Pili	Philippines
+Tofol	Micronesia, Federated States Of
+Burco	Somalia
+Kucevo	Serbia
+Koceljeva	Serbia
+Oyrarbakki	Faroe Islands
+Arta	Djibouti
+Temerin	Serbia
+Vestmanna	Faroe Islands
+Porkeri	Faroe Islands
+Raseiniai	Lithuania
+Gadzin Han	Serbia
+Roja	Latvia
+Gaigirgordub	Panama
+Opovo	Serbia
+Kyankwanzi	Uganda
+Ropazi	Latvia
+Sao Joao dos Angolares	Sao Tome And Principe
+Hvalba	Faroe Islands
+Smarde	Latvia
+Ntchisi	Malawi
+Xekong	Laos
+Trashi Yangtse	Bhutan
+Bistrica ob Sotli	Slovenia
+Pilsrundale	Latvia
+Sumba	Faroe Islands
+Mersrags	Latvia
+Kvivik	Faroe Islands
+Tervete	Latvia
+Karbinci	Macedonia
+Malpils	Latvia
+Solcava	Slovenia
+Pagegiai	Lithuania
+Ragana	Latvia
+Kone	New Caledonia
+Zalingei	Sudan
+Sandavagur	Faroe Islands
+Hodos	Slovenia
+Konce	Macedonia
+Rankovce	Macedonia
+Lozovo	Macedonia
+Andrijevica	Montenegro
+Hov	Faroe Islands
+Sala	Latvia
+Nwoya	Uganda
+Saleaula	Samoa
+Zagubica	Serbia
+Koceni	Latvia
+Trgoviste	Serbia
+Sola	Vanuatu
+Jaunpils	Latvia
+Rostusa	Macedonia
+Rauna	Latvia
+Semera	Ethiopia
+Gradsko	Macedonia
+Ignalina	Lithuania
+Vidhareidhi	Faroe Islands
+Burtnieki	Latvia
+Anew	Turkmenistan
+Masunga	Botswana
+Kostel	Slovenia
+Xizi	Azerbaijan
+Murmuiza	Latvia
+Trongsa	Bhutan
+Aglona	Latvia
+Sandur	Faroe Islands
+Nica	Latvia
+Vecumnieki	Latvia
+El Fula	Sudan
+Zhemgang	Bhutan
+Porto Novo	Cabo Verde
+Damongo	Ghana
+Loja	Latvia
+Tanjung Selor	Indonesia
+Liegi	Latvia
+Jaunpiebalga	Latvia
+Belcista	Macedonia
+Tigoa	Solomon Islands
+Naama	Algeria
+Lupane	Zimbabwe
+Riebini	Latvia
+Parun	Afghanistan
+Vainode	Latvia
+Staro Nagoricane	Macedonia
+Stalbe	Latvia
+Ergli	Latvia
+Kolasin	Montenegro
+Fish Town	Liberia
+Bopolu	Liberia
+Vecpiebalga	Latvia
+Anouvong	Laos
+Loango	Congo (Brazzaville)
+Drabesi	Latvia
+Alsunga	Latvia
+Laascaanood	Somalia
+Vecvarkava	Latvia
+Navoiy	Uzbekistan
+Naukseni	Latvia
+Famjin	Faroe Islands
+Husavik	Faroe Islands
+Baltinava	Latvia
+Zabljak	Montenegro
+Dundaga	Latvia
+Georgetown	Saint Helena, Ascension, And Tristan Da Cunha
+Nereta	Latvia
+Cibla	Latvia
+Amdjarass	Chad
+Lhuentse	Bhutan
+Jakar	Bhutan
+Nova Varos	Serbia
+Ceerigaabo	Somalia
+Skalavik	Faroe Islands
+Rugaji	Latvia
+Kunoy	Faroe Islands
+Daga	Bhutan
+Bela Palanka	Serbia
+Novaci	Macedonia
+Kobarid	Slovenia
+Rucava	Latvia
+Kirkja	Faroe Islands
+Sowa Town	Botswana
+Zgornje Jezersko	Slovenia
+Savnik	Montenegro
+Kidal	Mali
+Crna Trava	Serbia
+Skuvoy	Faroe Islands
+Pluzine	Montenegro
+Choyr	Mongolia
+Edinburgh of the Seven Seas	Saint Helena, Ascension, And Tristan Da Cunha
+Awbari	Libya
+Gasa	Bhutan
+Idri	Libya
+Jwaneng	Botswana
+Mahdia	Guyana
+Hayma'	Oman
+Union Choco	Panama
+Bardai	Chad
+Al Kufrah	Libya
+Star Dojran	Macedonia
+We	New Caledonia
+Presevo	Serbia
+Bujanovac	Serbia
+Kitamilo	Uganda
+Tarrafal	Cabo Verde
